@@ -1,1655 +1,911 @@
 state,lga,postcode,facility
-katsina,Faskari,832001,Faskari
-Bayelsa ,Ogbia,561003,Ogbia
-Zamfara  ,Bungudu,881001,Bungudu
-Bayelsa ,Nembe,561002,Nembe
-Zamfara  ,Anka,890001,Anka
-Zamfara  ,Maru,890002,Maru
-Zamfara  ,Gummi,891001,Gummi    
-Zamfara  ,Gusau,880001,Gusau
-Sokoto,Gwadabawa,843001,Gwadabawa
-Zamfara  ,Talatan Mafara,892001,Talatan Mafara
-Zamfara  ,Kauran Namoda,882001,Kauran Namoda
-Sokoto,Tambawal,850001,Tambawal
-Sokoto,Yabo,851001,Yabo    
-Sokoto,Shagari,851001,Shagari
-Sokoto,Illela,843002,Illela    
-Sokoto,Bodinga,852001,Bodinga     
-Sokoto,Wurno,842001,Wurno    
-Sokoto,Gidan Madi    .,841001,Gidan Madi    .
-Zamfara  ,Shinkafi,883002,Shinkafi
-Sokoto,Wamakko,840004,Udus
-Zamfara  ,Chafe,880003,Kucheri
-Zamfara  ,Chafe,880002,Chafe    
-Zamfara  ,Isa,883001,Isa    
-Sokoto,Sokoto South,840001,GPO
-Sokoto,Sokoto South,840003,Federal Secretatiat
-Sokoto,Sokoto South,840002,Marina
-katsina,Daura,820001,Daura
-Anambra ,Ihiala,431003,Ihiala
-Anambra ,Ihiala,431004,Uli
-katsina,Katsina,820001,GP.O
-Anambra ,Ihiala,431005,Okija 
-Abia,Ohafia,443004,Ania
-Abia,Ohafia,443005,Ohafia 
-Abia,Ohafia,443001,Abiriba
+Abia,"Aba South",450002,"Ngwa Rd"
+Abia,"Aba South",450001,Aba
 Abia,Arochukwu,442003,Ihechiowa
 Abia,Arochukwu,442001,Arochukwu
-Abia,Umuahia North,440004,Ameke Ibeku
-Abia,Umuahia North,440112,Afugiri
-Abia,Osisioma,450003,umungasi
-Abia,Isuikwuato,443005,Eluama
-Abia,Ikwuana,440006,Ariam
-Abia,Bende,441013,Ozuitem
-Abia,Umuahia North,440003,Umuahia 
-Abia,Bende,410010,Alayi
-Abia,Bende,440021,Item
-Abia,Bende,441011,Bende
-Abia,Bende,441012,Igbere
+Abia,Arochukwu,442002,Ozuabam
 Abia,Bende,441008,Uzuakoli
-Abia,Ikwuana,440014,Oloko
-Abia,Ikwuana,440007,Oboro
-Abia,Unuahia North,440015,N  Okaniuga
+Abia,Bende,441013,Ozuitem
+Abia,Bende,440021,Item
+Abia,Bende,441012,Igbere
+Abia,Bende,441011,Bende
+Abia,Bende,410010,Alayi
+Abia,Ikwuano,440007,Oboro
+Abia,Ikwuano,440006,Ariam
+Abia,Ikwuano,440014,Oloko
+Abia,"Isiala Ngwa South",451004,Umuosu
+Abia,"Isiala Ngwa South",451003,Owerrinta
+Abia,"Isiala Ngwa South",451002,Omoba
+Abia,"Isiala Ngwa South",440008,"Okpuala Ngwa"
+Abia,"Isiala Ngwa South",451001,Nbawsi
+Abia,"Isiala Ngwa South",440001,GPO
+Abia,"Isiala Ngwa South",452001,"Amapu Ntigha"
 Abia,Isukwuato,441002,Ovim
+Abia,Isukwuato,443005,Eluama
+Abia,Ohafia,443005,Ohafia
 Abia,Ohafia,443003,Ohafia
-katsina,Katsina,980001,Katsina Ala 
-katsina,Funtua,830001,Funtua
-Abia,Arochkwuu,442002,Ozuabam
-Abia,Aba South,450002,Ngwa Rd
-Abia,Isiala Ngwa South,440001,GPO
-Abia,Isiala Ngwa South,451004,Umuosu
-Abia,Aba South,450001,Aba
-Abia,Isiala Ngwa South,452001,Amapu Ntigha
-Abia,Isiala Ngwa South,451001,Umunkpeyi
-Abia,Isiala Ngwa South,451001,Nbawsi
-Abia,Isiala Ngwa South,440008,Okpuala Ngwa 
-Yobe,Damaturu,620001,GPO 
-Anambra ,Atani,431001,Atani
-Yobe,Gaidam,632001,Geidam
-Anambra ,Njikoka,421011,Enugwu-Agidi
-Anambra ,Onitsha North,430003,Fegge
-Anambra ,Idemili North,434010,Nkpor 
-Anambra ,Oyi,433005,Awkuzu
-Abia,Umuahia South,440010,Olokoro
-state,lga,postcode,facility
-Borno,Hawul  ,603004,Marama 
-state,lga,postcode,facility
-Borno,Hawul  ,603004,Marama 
-Benue,Vandekya,982001,Vandekya
-Bayelsa ,Abua Odual,510003,Abua
-Bauchi,Gamawa,752001,General Hospital
-Anambra ,Ihiala,431004,Uli
-Akwa Ibom,Abak,532001,Abak 
-Adamawa,Gombi,652001,Gombi
-Abia,Isuikwuato,443005,Eluama
-Kogi,Ibaji,271002,Onyedega
-Kebbi,Aliero,863003,
-katsina,Faskari,832001,Faskari
-Kano,Tudun Wada,710003,Tudun Wada
-Kaduna,Kafanchan,801002,Kogun River
-Jigawa,Taura,733004,Taura
-Jigawa,Roni,705002,Roni
-Gombe ,Shongom,770002,Boh
-Zamfara  ,Bungudu,881001,Bungudu
-Kaduna,Kafanchan,601004,Godogodo
-Anambra ,Ihiala,431005,Okija 
-Anambra ,Ihiala,431003,Ihiala
-Zamfara  ,Anka,890001,Anka
-Zamfara  ,Talatan Mafara,892001,Talatan Mafara
-Zamfara  ,Maru,890002,Maru
-Zamfara  ,Chafe,880003,Kucheri
-Zamfara  ,Shinkafi,883002,Shinkafi
-Zamfara  ,Isa,883001,Isa    
-Zamfara  ,Kauran Namoda,882001,Kauran Namoda
-Zamfara  ,Gusau,880001,Gusau
-Zamfara  ,Gummi,891001,Gummi    
-Gombe ,Kaltungo,770001,Kaltungo
-Gombe ,Kwami,760003,Bojude
-Gombe ,Balanga,761001,Bambam
-Gombe ,Yamaltu Deba,761003,Deba
-Gombe ,Akko,771002,Kumo
-Gombe ,Dukku,760005,Dukku
-Gombe ,Billiri,771001,Billiri
-Gombe ,Funakaye,762001,Bajoga
-Gombe ,Balanga,761002,Talasse
-Gombe ,Kwami,760004,Angwar Sarki
-Zamfara  ,Chafe,880002,Chafe    
-Gombe ,Gombe ,760002,Kasawa
-Gombe ,Gombe ,760001,Gombe
-Jigawa,Birnin Kudu,721001,Birnin Kudu
-Jigawa,Babura,732007,Babura
-Kaduna,Sanga,801007,Gwantu
-Kaduna,Kachia,802003,Kachia
-Kaduna,Kagarko,807004,Kubachia
-Kaduna,Jaba,801003,Kwoi
-Kaduna,Madakiya,801008,Madakiya
-Kano,Wudil,713001,Wadil
-Kano,Gaya,713003,Gaya
-Kano,Danbatta,702004,Danbatta
-Kano,Dawakin Tofa ,701001,Dawakin Tofa 
-Kano,Garko,712001,Garko
-Kano,Minjibir,702003,Minjibir
-Kano,Takai,712001,Takai
-Kano,Gezawa,702001,Gerawa
-Kano,Ungogo,700004,Airport
-Kano,Dala,700005,Fed Sect 
-Kano,Tarauni,700011,Audu Bako Secretariat
-katsina,Bakori,832002,Bakori 
-katsina,Malumfashi,833001,Malumfashi
-Kano,Fagge,700007,Sabon Gari 
-katsina,Funtua,830001,Funtua
-katsina,Mani,825002,Mani
-Kano,Nassarawa,700003,Bompai
-Kano,Nassarawa,700001,GPO 
-Kano,Tarauni,700008,Gyadi Gyadi
-katsina,Dutsinma,821001,Dutsinma
-katsina,Daura,820001,Daura
-katsina,Katsina,820001,GP.O
-Kebbi,Bagudo,871001,Secretarriat 
-Kebbi,Sakaba,872002,Rijah 
-Kebbi,Koko-Besse,871002,Off Jega 
-Kebbi,Zuru,872001,GRA 
-Kebbi,Bunza,862002,Kamba 
-Kebbi,Yelwa Yauri,870001,Emir's Palace 
-Kebbi,Dandi,862001,Zango 
-Kebbi,Gwandu,860003,Emir's Palace
-Kebbi,Arewa,863001,Market 
-Kebbi,Argungu,681001,Sokoto 
-Kebbi,Jega,863002,Sokoto 
-Kebbi,Birnin Kebbi,860001,Salihu Attahiru 
-Kogi,Bassa LGA,273004,Oguma
-Kogi,Ofu  LGA,271003,Ejule
-Kebbi,Birnin Kebbi,860001,Haliru Abidu 
-katsina,Katsina,980001,Katsina Ala 
-Kogi,Olamaboro   Okpo,270003,Okpo
-Kogi,Omala Abejukulo,270002,Abeojukulo
-Kogi,Ankpa,270001,Ankpa
-Kogi,Idah,271001,Idah
-Kogi,Dekina,272003,Egume
-Kogi,IJumu,262002,Amuro
-Kogi,Ogori,263002,ogori
-Kogi,kabba Bunu,261001, Kabba
-Kogi,IJumu,260006,Odo   Ere
-Kogi,IJumu,262005,Egbe 
-Kogi,Dekina,272001,Dekina
-Kogi,Dekina,272002,Anyangba
-Adamawa,Lamurde,642002,Lamurde
-Adamawa,Demsa,642005,Borrong
-Adamawa,Mayo Belwa,641002,Mayo Belwa
-Adamawa,Fufore,640107,Fufore 
-Adamawa,Song,652001,Dumne
-Adamawa,Yola North,640001,GPO 
-Adamawa,Ganye,641001,Ganye 
-Akwa Ibom,Uyo,520001,GPO
-Adamawa,Yola South,640002,Yola town 
-Akwa Ibom,Urueoffong Oruko,523002,Oyubia
-Akwa Ibom,Okoboi,521003,Okobo
-Akwa Ibom,Okoboi,521003,Okobo
-Adamawa,Jada,641003,Jada 
-Akwa Ibom,Ikot Ubo,522006,Ikot Ubo
-Akwa Ibom,Uruan,520002,Nwaniba
-Akwa Ibom,Ikot Ubo,522006,Ikot Ubo
-Akwa Ibom,Itu,520004,Itu
-Akwa Ibom,Itu,520004,Itu
-Akwa Ibom,Uruan,520002,Nwaniba
-Akwa Ibom,Ibesikpo Asutan,521001,Obot Idim
-Akwa Ibom,Ibesikpo Asutan,521001,Obot Idim
-Akwa Ibom,Urueoffong Oruko,523002,Oyubia
-Akwa Ibom,Uyo,520003,Uniuyo
-Akwa Ibom,Uyo,520001,GPO
-Akwa Ibom,Uyo,520003,Uniuyo
-Adamawa,Song,652001,Song
+Abia,Ohafia,443004,Ania
+Abia,Ohafia,443001,Abiriba
+Abia,Osisioma,450003,umungasi
+Abia,"Ukwa West",452001,"Imo River"
+Abia,"Umuahia North",440015,"N  Okaniuga"
+Abia,"Umuahia North",440003,Umuahia
+Abia,"Umuahia North",440004,"Ameke Ibeku"
+Abia,"Umuahia North",440112,Afugiri
+Abia,"Umuahia South",440005,Ekenobizi
+Abia,"Umuahia South",440009,Ubakala
+Abia,"Umuahia South",440010,Olokoro
+Abia,"Umuahia South",440002,"Old Umuahia"
 Adamawa,Demsa,642004,Demsa
-Akwa Ibom,Ikot Ekpene,530001,Ikot Ekpene
-Akwa Ibom,Nsit Ubium,522008,Ikot Ekwere
-Akwa Ibom,Etinan,522007,Mbioto
-Akwa Ibom,Ikot Abasi,534001,Ikot Abasi
-Akwa Ibom,Eket,524001,Eket 
-Akwa Ibom,Nsit Ibom,522002,Mbiaso
-Akwa Ibom,Mbo,524002,Enwang
-Akwa Ibom,Oron,523001,Oron
-Akwa Ibom,Onna,524002,Awa Iman
-Anambra ,Ayamelum,433013,Omor
-Anambra ,Onitsha South,430003,Ogboefere
-Anambra ,Ogunike,433002,Ogbunike 
-Anambra ,Atani,431001,Atani
-Anambra ,Idemili  North,434015,Nkpor 
-Anambra ,Idemili North,434001,Abatete
-Anambra ,Onitsha North,430003,Fegge
-Anambra ,Onitsha North,430001,Onitsha
-Anambra ,Oyi,433004,Umunya
-Anambra ,Oyi,433001,Nkwelle-Ezunaka
-Anambra ,Oyi,421012,Ukwulu
-Anambra ,Oyi,421005,Nawgu
-Anambra ,Oyi,433005,Awkuzu
-Anambra ,Oyi,433003,Nteje 
-Anambra ,Idemili North,434105,Eziowelle
-Anambra ,Idemili North,434005,Umuoji 
-Anambra ,Idemili North,434010,Nkpor 
-Anambra ,Idemili North,434014,Aforigwe
-Anambra ,Idemili North,434003,Obosi
-Anambra ,Idemili North,434004,Ogidi
-Akwa Ibom,Onna,524002,Awa Iman
-Akwa Ibom,Oron,523004,Maritime Academy
-Anambra ,Ekwusigo,435005,Ozubulu
-Anambra ,Anaocha,422014,Obeledu
-Anambra ,Nnewi South,435002,Azigbo
-Anambra ,Idemili South,434017,Awka  Etiti
-Anambra ,Nnewi North,435001,Nnewi
-Bauchi,Darazo,750004,Near S.S Kari
-Bauchi,Misau,750001,General Hospital
-Bauchi,Shira,751106,Yana 
-Bauchi,Jama'are,751003,General Hospital
-Bauchi,Itas Gadau,751002,Kofar Fada
-Bauchi,katagum,751001,Nassarawa   
-Bauchi,Kwami,760003,Bojude
-Bauchi,Bauchi,743001,Federal Poly
-Bayelsa ,Emohua,511001,Elele
-Bayelsa ,Ogba Egbeama Ndoni,511001,Ndoni
-Bayelsa ,Ahoada,510001,Ahoada
-Bayelsa ,Ahoada,510001,Ahoada
-Bayelsa ,Sagbama,561004,Sagbama
-Bauchi,Bauchi,743001,Army Barrack
-Bauchi,Bauchi,743001,Gombe
-Bauchi,Bauchi,742001,Ningi
-Bauchi,Bauchi,740004,Toro
-Bauchi,Bauchi,741002,Tafawa balewa
-Bauchi,Bauchi,740005,Yalwa
-Bauchi,Bauchi,741001,Dass
-Bauchi,Bauchi,740002,Gidan Mai
-Bauchi,Bauchi,740003,Federal Secretariat
-Bauchi,Bauchi,740001,Wunti 
-Bauchi,Kwami,760004,Angwar Sarki
-Bauchi,Darazo,750003,Adj.Polic
-Anambra ,Idemili South,434002,Oba 
-Anambra ,Idemili South,422001,Oraukwu 
-Anambra ,Idemili South,434008,Ojoto Uno 
-Anambra ,Idemili South,434013,Ojoto
-Anambra ,Idemili South,434012,Alor
-Bayelsa ,Ogba Egbeama Ndoni,510002,Omoku
-Anambra ,Idemili South,434011,Nnokwa
-Anambra ,Idemili South,434007,Nnobi
-Anambra ,Nnewi South,435006,Ukpor 
-Anambra ,Nnewi South,435010,Unubi
-Anambra ,Nnewi South,435007,Nkwo Ezinifite
-Anambra ,Nnewi South,435002,Amichi
-Anambra ,Nnewi South,435008,Ekwulumili
-Anambra ,Nnewi South,435004,Osumenyi
-Borno,Akkira Uba,601004,Lassa  
-Borno,kondugalga,610002,Konduga
-Borno,Gwoza ,610003,Gwoza
-Borno,Askira ,601003,Askira 
-Borno,Bama ,610001,Bama 
-Borno,Kaga ,601002,Binisheik
-Borno,Dikwa  ,611001,Dikwa
-Borno,Marte ,611003,Marte
-Borno,Monguno ,612001,Monguno 
-Borno,Ngala ,611002,Ngala 
-Borno,Jere,600002,Baga Rd
-Borno,Kukawa,612002,Kukawa 
-Borno,Jepe,600005,Gwange 
-Borno,Jerre,600004,University of maiduguri
-Borno,MMC,600003,Fed.Sec
-Yobe,Buni Yadi,621002,Buni Yadi
-Yobe,Damagum,622003,Damagum
-Yobe,Gaidam,632001,Geidam
-Yobe,Nguru,630001,Nguru
-Yobe,Damaturu,620001,GPO 
-Taraba   ,Ibi,670002,Ibi 
-Yobe,Potiskum,622002,Potiskum
-Taraba   ,Takum,671002,Takum 
-Taraba   ,Sarduna,663002,Gembu 
-Taraba   ,Donga,671001,Donga 
-Yobe,Gashua,631001,Gashua
-Taraba   ,Gashaka,663001,Serti 
-Taraba   ,Wukari,670001,Wukari 
-Taraba   ,Bali,672001,Bali 
-Taraba   ,Gassol,6,Mutum Biyu
-Taraba   ,Karim Lamido,662002,Karim Lamido 
-Taraba   ,Kurmi,671004,Baissa
-Taraba   ,Lau,662001,Lau 
-Borno,MMC,600001,GPO
-Taraba   ,Yorro,661002,Pantisawa 
-Taraba   ,Zing,661003,Zing 
-Taraba   ,Jalingo,660001,Jalingo 
-Sokoto,Gidan Madi    .,841001,Gidan Madi    .
-Rivers,Ahoada,510001,Ahoada
-Oyo,Ibadan North,200005,University of Ibadan
-Plateau,Mikang,942002,Garkawa
-Plateau,Quan-pan,940003,Ba'ap
-Osun,Ifedayo  ,234004,Ora  Igbomina
-Ondo,Ikaramu,342009,Ikaramu
-Niger,Suleja,910001,Suleja
-Nasarawa,New Karu,961002,New Karu
-Lagos,lagosMainland ,101017,University Of Lagos
-Kwara,Isin,251005,Isanlu Isin
-FCT,Kwali,904001,Kwali
-Enugu  ,Ezeag  ,401001,Isigwu Umana          
-Enugu  ,Oji   River ,402001,Acht          
-Enugu  ,Udenu ,412002,Obollo   Afor    
-Enugu  ,Oji   River ,401008,Oji   River    
-Kwara,Isin,251008,Ijara
-Enugu  ,Igbo   Etiti,411003,Ogbede    
-Kwara,Isin,251010,Owu Isin
-Kwara,Isin,251012,Edidi
-Nasarawa,New Karu,961003,Mararaba
-Kwara,Isin,251011,Oke Onigbin
-Kwara,Isin,251009,Iwo Isin 
-Nasarawa,New Karu,962001,Nasarawa
-Osun,Ifedayo  ,234003,Oke   Ila
-Ogun ,otta,112001,Sango Ota
-Oyo,Ibadan North,200009,Tapa
-Rivers,Ahoada,510001,Ahoada
-Enugu  ,Nsukka ,410001,UNN    
-Enugu  ,Aninri ,402002,Nenwe    
-Enugu  ,Ezeagu,401006,Iwollo     
-Enugu  ,Oji River ,401007,Inyi    
-Enugu  ,Igbo   Eze North,413001,Enugu Ezike 
-Enugu  ,Enugu South,400001,New Haven          
-Enugu  ,Nkanu Wast,402004,Agbani
-Enugu  ,Enugu North,400001,Asata          
-Enugu  ,Udi,401001,Udi    
-Enugu  ,Uzouwani,411001,Umulok       
-Enugu  ,Ngwo,410003,9th Mile Counter
-FCT,Abaji,905001,Abaji
-FCT,Bwari,901002,Kubwa
-FCT,Gwagwalada,902001,University of Abuja
-FCT,AMAC,900003,Wuse
-Kwara,Oke    Ero,252003,Ilofa
-Kwara,Ekiti  ,252001,Eruku
-Kwara,Ekiti  ,252102,Osi
-Lagos,Badagry,102001,Agbara   
-Lagos,Badagby,103001,Badagry
-Lagos,Eti-Osa,101003,New Secretariat   
-Lagos,Lagos Island,101001,GPO 
-Lagos,Lagos,110102,Idumagbo
-Lagos,Amuwo Odofin,101010,Navy Town
-Lagos,Ajeromi,101015,Amukoko
-Lagos,Igbogbo,104002,Igbogbo   
-Lagos,Imota  ,104004,Imota    
-Lagos,Apapa ,101010,Apapa
-Lagos,Owutu  ,100002,Owutu   
-Lagos,Ikorodu  ,104001,Ikorodu   
-Lagos,Lagos Mainland ,101016,Iddo Terminus  
-Lagos,Lagos Main Land ,101012,Ebute -Metter 
-Lagos,Mushin,100009,Mushin  
-Lagos,Oshodi  Isolo,100003,MMAP
-Lagos,Surulere,101014,Surulere  
-Lagos,Lagos Mainland ,101013,National Arts Theatre  
-Lagos,Lagos Island,101004,City Hall
-Lagos,Lagos Island,101018,Adeniji Adele
-Lagos,Lagos Island,101005,Moloney
-Lagos,Lagos Island,101006,Lafiaji
-Lagos,Ojo,102003,Aspanda  
-Lagos,Otto - Ijanikin,102004,Ijanikin  
-Lagos,Amuwo,100001,Festac 
-Lagos,Itire  Ikate &Aguda,101015,Ijeshatedo
-Lagos,Ikosi Isheri,100014,Magodo
-Lagos,Ikeja,100015,Juli House  
-Lagos,Skomolu,100007,Skomolu
-Lagos,Ikosi Iseri ,100013,Ketu  Kosofe
-Lagos,Alimosho,100006,Oke-Odo  
-Lagos,Ogun,112005,Ajuwon
-Lagos,Ifako - Ijaye,100005,Ojokoro
-Lagos,Agege,100005,Agege
-Nasarawa,Keffi,961001,Keffi
-Nasarawa,Wamba,960002,Wamba
-Nasarawa,Akwanga,960003,Gudi
-Nasarawa,Nasarawa Eggon,960004,Nasarawa
-Nasarawa,Keana,951001,Keana
-Nasarawa,Akwanga,960001,Akwanga
-Ogun ,Ogun Water Side ,122003,Abigi
-Ogun ,Ijebu North East ,120002,Isonyin
-Ogun ,Ijebu East ,122002,Ogbere
-Ogun ,Odogbolu,120003,TASUED
-Ogun ,Ijebu Ode,120001,Ijebu Ode
-Ogun ,Yewa  South,111003,Fed Poly
-Ogun ,Yewa South ,111004,Oke-Odan
-Ogun ,Obafemi  Owode,111005,Owode
-Ogun ,Yewa South ,111002,Iiro
-Ogun ,Yewa North,111001,Ayetoro
-Ogun ,Obafemi Owode,121001,Redeemed Church
-Ogun ,Odeda,110006,FCE
-Ogun ,AbeokutaNorth,110003,Totoro
-Ogun ,Abeokuta South,110002,Ibara  
-Ondo,Imeri,341005,Imeri
-Ogun ,Abeokuta South,110001,GPO
-Ogun ,Odeda,110007,Odeda
-Ondo,Ijebu Owo,341001,Ijebu Owo
-Ondo,Ipe,342011,Ipe
-Ogun ,Odeda,110008,UNAAB
-Ogun ,Obafemi Owode,110004,Federal Sec.Complex
-Ogun ,Imeko  Afon,110001,Imeko
-Ogun ,Imeko  Afon,110001,Imeko Sub.
-Ogun ,Yewa South ,111005,Owode Yewa
-Ogun ,Odogbolu,120003,Odogbolu
-Ogun ,Ijebu East ,122001,Ijebu Imushin
-Ogun ,Odogbolu,121001,Aiyepe
-Ondo,Idonani,341004,Idoani
-Ondo,Ifon,341002,Ifon
-Ondo,Oba,342008,Oba
-Ondo,Akungba,342007,Akungba
-Ondo,Epinmi,352006,Epinmi
-Ondo,Iwaro,342010,Iwaro
-Ondo,Oka,342006,Oka
-Ondo,Ogbagi,342001,Ogbagi
-Ondo,Oke Agbe,342005,Oke Agbe
-Ondo,Ajowa,342002,Ajowa
-Ondo,Irun,342003,Irun
-Ondo,Arigidi,342004,Arigidi
-Ondo,Ikare ,342001,Ikare
-Ondo,Owo,341001,Owo
-Ondo,Igbokoda,352003,Igbokoda
-Ondo,Odotu,351002,Odotu
-Osun,Iwo  ,232005,Iwo 
-Osun,Orolu  ,233003,Ifon   Osun
-Osun,Ede North,232001,Ede
-Osun,Osogbo ,230001,Osogbo
-Osun,Isokan  ,221004,Apomu
-Osun,Irewola   ,221003,Ikire
-Osun,Ayadaade ,221005,Orile   Owu
-Osun,Ife North ,220006,Moro
-Osun,Ife    Central,220005,OAU
-Osun,Ife   East ,220003,Modakake
-Osun,Ife South,222007,Ife   tedo
-Osun,Ife Contral ,220007,Ile   Ife
-Osun,Ife East ,220001,Ile   Ife 
-Osun,Oriade,233008,Erinmo
-Osun,Esa   Oke,233010,Esa   Oke
-Osun,Obokun,233007,Imest   Ile
-Osun,Atakunmosa West,233003,Ifewara
-Osun,Atakunmosa West,234002,Osu
-Osun,Obokun,233006,Ibokun
-Osun,Oriade,233012,Iloko
-Osun,Oriade,231005,Ipetu   Jesa
-Osun,Ife South,220004,Olode
-Osun,Ayadaade ,221002,Ode  Omu
-Plateau,Pankshin,933001,Pankshin
-Plateau,Jos South,933009,NIPSS
-Rivers,Opobo  Nkoro,503002,Opobo
-Plateau,Bokkos,932004,Daffo
-Plateau,Barkin Ladi,931002,Kurra Falls
-Rivers,Gokana,501002,Bodo
-Plateau,Jos North,930002,Jos Town
-Rivers,Okirika,500009,Okirika
-Plateau,Jos North,940006,Zaria Rd.
-Rivers,Khana,520001,Bori Ogoni
-Rivers,Etche,512001,Okehi
-Rivers,Akulga,504004,Abonnema
-Rivers,Ikwerre,511002,Airport
-Rivers,Degama,504002,Bokana
-Rivers,Asari-Toru,504003,Buguma
-Rivers,Obio  Akpor,500007,Woji
-Rivers,Port Harcout ,500003,Trans Amadi
-Rivers,Port Harcout ,500005,Aggrey Roa
-Rivers,Port Harcout ,500008,Unitech
-Rivers,Port Harcout ,500002,Diobu
-Rivers,Port Harcout ,500001,GPO
-Rivers,Obio  Akpor,500011,College Of Arts & Science
-Rivers,Obio  Akpor,500006,Federal Secretariat
-Rivers,Obio  Akpor,500010,COE
-Rivers,Obio  Akpor,500004,Uniport
-Rivers,Eleme,501001,Eleme
-Plateau,Jos North,930004,Jos North
-Plateau,Jos North,930003,University of Jos
-Plateau,Jos North,900001,GPO
-Plateau,Jos South,930008,Bukuru
-Plateau,Jos South,930011,Federal Secretariat
-Plateau,Barkin Ladi,931001,Barkin Ladi
-Plateau,Jos South,930007,Anglo Jos
-Sokoto,Shagari,851001,Shagari
-Sokoto,Yabo,851001,Yabo    
-Sokoto,Tambawal,850001,Tambawal
-Sokoto,Wurno,842001,Wurno    
-Sokoto,Illela,843002,Illela    
-Sokoto,Bodinga,852001,Bodinga     
-Sokoto,Wamakko,840004,Udus
-Sokoto,Gwadabawa,843001,Gwadabawa
-Edo,Esan South East,310003,Ewohimi
-Ebonyi ,Oba   Ozara,491002,Egunkwo Onitsha
-Delta ,Uvwie,330003,Effurun
-Cross River  ,Abi,543002,Itigidi
-Cross River  ,ugep,543001,Ugep
-Cross River  ,Ogoja,550001,Ogoja 
-Ekiti,Otun,372004,Otun
-Ekiti,Ire,212001,Kishi
-Ekiti,Ire,370002,Ire
-Sokoto,Sokoto South,840003,Federal Secretatiat
-Ekiti,Ayede,372003,Ayede
-Ekiti,Ijesa - Isu,370003,Ijesa - Isu
-Ekiti,Isan ,371007,Isan
-Ekiti,Omuo Oke,371008,Omuo Oke
-Ekiti,Usi,371006,Usi
-Ekiti,Ilogbo,371004,Ilogbo
-Ekiti,Iloro,372002,Iloro
-Ekiti,Aisegba,370005,Aisegba
-Ekiti,Aiyetoro,371009,Aiyetoro
-Ekiti,Ijero,372001,Ijero
-Ekiti,Ilupeju,371008,Ilupeju
-Ekiti,Ode  ,370004,Ode  
-Ekiti,Oye,371010,Oye 
-Ekiti,Omuo,370006,Omuo
-Ekiti,Ikole,370001,Ikole
-Ekiti,Iye,372003,Iye
-Ekiti,Ifaki,371002,Ifaki
-Ekiti,Igbara Odo,361002,Igbara Odo
-Ekiti,Iyin,362005,Iyin
-Ekiti,Okemesi,362002,Okemesi
-Ekiti,Emure,361004,Emure
-Ekiti,Ise,361003,Ise
-Ekiti,Awo,362007,Awo
-Ekiti,Orin,361003,Orin
-Ekiti,Aramoko,362001,Aramoko
-Ekiti,Ido ,372001,Ido 
-Ekiti,Iluomoba,370007,Iluomoba
-Ekiti,Osi,271005,Osi
-Ekiti,Igede,362006,Igede
-Sokoto,Sokoto South,840001,GPO
-Sokoto,Sokoto South,840002,Marina
-Ekiti,Ilawe,360003,Ilawe
-Ekiti,Ijan,360002,Ijan
-Ekiti,Efon Alaye,362004,Efon Alaye
-Cross River  ,Obubra,551004,Obubra
-Cross River  ,Obudu,552001,Obudu 
-Cross River  ,Ikom,551001,Ikom
-Cross River  ,Odukpani,541001,Creek Town
-Ebonyi ,Ezza,481001,Onueke    
-Delta ,Oshimili,320005,Okaman
-Ebonyi ,Abakaliki ,481001,Abakaliki    
-Ebonyi ,Afikpo,490001,Afikpo    
-Ebonyi ,Ikwo,482002,Onuagbonyi    
-Ebonyi ,Oha   Ozara,491002,Ishiagu    
-Edo,Igueben ,310002,Ebelle
-Edo,Esan Central,310005,Ewu
-Edo,Esan North East,311002,Ubiaja
-Edo,Owan East,313001,Afuze
-Edo,Esan West,310006,Ambrose Alli University
-Edo,Etsako Central,312006,Fugar
-Edo,Etsako West,312002,Uzairue
-Edo,Akoko Edo  ,312005,Igarra
-Edo,Okpoba Okha,300005,Federal Secretariat
-Edo,Orhionmwon,301002,Igbanke
-Edo,Owan West,313002,Sabogida Ora
-Edo,Orhionmwon,301001,Abudu
-Edo,Owan West,313003,Sobe
-Edo,Etsako West,312003,Agenebode
-Edo,Etsako West,312001,Auchi
-Edo,Esan West,311003,Iruekpen
-Edo,Esan West,310001,Ekpoma
-Edo,Etsako West,312004,Agbede
-Edo,Esan North East,311001,Uromi
-Edo,Esan Central,311004,Irrua
-Edo,Igueben ,310004,Igueben
-Ebonyi ,Oha   Ozara,492001,Okposi
-Ebonyi ,Oha   Ozara,492002,Uburu    
-Ebonyi ,Afikpo,490002,Fed Poly Technic 
-Ebonyi ,Afikpo,490003,Unwana    
-Delta ,Oshimili,320004,Ibusa
-Delta ,Oshimili,310004,Illah
-Delta ,Oshimili,520001,Asaba
-Edo,Ikpoba,300003,Ologbo
-Edo,Uhunmwonde,301003,Ehor
-Edo,Oredo,300002,Akpakpava
-Edo,Egor,302001,Ugbowo
-Delta ,Aniocha,320110,Onicha-Olona
-Delta ,Ika South,321101,Owanta
-Delta ,Ika North,321002,Umunede
-Delta ,Ika North,321101,Ekuku-Agbor
-Delta ,Ika South,321001,Agbor
-Delta ,Ika South,320013,Idumuje-Ugboko
-Delta ,Aniocha,320018,Ezi
-Delta ,Aniocha,320006,Ebu
-Delta ,Aniocha,320009,Onicha-Ugbo
-Delta ,Aniocha,320007,Issele-Uku
-Delta ,Aniocha,320014,Obior
-Delta ,Aniocha,320012,Isheagu
-Delta ,Aniocha,320018,Ewulu
-Delta ,Aniocha,320018,Ubulu-Uku
-Delta ,Aniocha,320002,Akwukwu
-Delta ,Ndokwa West,332005,Umutu
-Delta ,Aniocha,320007,Issele-Mkpittime 
-Delta ,Ugbelli North,332006,Obiaruku
-Delta ,Ugbelli North,333001,Ughelli
-Delta ,Ethiope West,331001,Abraka
-Delta ,Ethiope West,331101,Oghara
-Delta ,Aniocha,320015,Nsukwa
-Delta ,Ethiope East,331002,Eku
-Delta ,Isoko North,334196,Uzere
-Delta ,Ugbelli South,333002,Ekekpanre
-Delta ,Ugbelli North,333004,Orogun
-Delta ,Ugbelli North,333110,Agbarbo
-Delta ,Ndokwa East,332002,Amai
-Delta ,Ukwani,322133,Ossissa
-Ekiti,Ado Ekiti,360001,Ado Ekiti
-Delta ,Ika North,321005,Idumuesah
-Ekiti,Ikere,361001,Ikere
-Plateau,Jos South,930010,Vom
-Ekiti,Erinjinyan,362003,Erinjinyan
-Delta ,Ndokwa West,332003,Ashaka
-Delta ,Okpe,330101,Adagbaasa
-Delta ,Sapele ,321006,Sapele
-Delta ,Udu,330103,Ovwafri
-Delta ,Burutu,332010,Foreadoa
-Cross River  ,Calabar,540007,EPZ
-Cross River  ,Calabar,540006,Poly Cal
-Plateau,Mangu,933001,Gindiri
-Plateau,Kanke,933003,Amper
-Plateau,Kanke,933002,Kabwir
-Plateau,Shendam,940004,Demshin
-Plateau,Langtang,941001,Langtang
-Plateau,Dengi,942003,Dengi  
-Plateau,Shendam,942002,Yelwa Ishar
-Plateau,Wase,942001,Wase
-Plateau,Langtang South,941002,Mabudi
-Oyo,Ibadan South West,200001,GPO
-Oyo,Ibadan South ,200002,Mapo
-Plateau,Shendam,940001,Shendam
-Cross River  ,Calabar,540003,Housing Estate
-Cross River  ,Calabar,540002,Edgerly Rd
-Plateau,Mangu,932001,Mangu
-Cross River  ,Calabar,540001,Calabar 
-Cross River  ,Calabar,540004,UNICAL
-Cross River  ,Calabar,540005,Ambo
-Delta ,Burutu,332009,burutu
-Delta ,Udu,330002,DSO
-Delta ,Okpe,330001,Orerokpe
-Oyo,Iseyin,202001,Isyin
-Oyo,Iddo,200006,Eleyele
-Oyo,Oyo Afijio,211002,Awe
-Oyo,Oyo West,211003,Bacotho
-Oyo,Kajola,202002,Okeho
-Oyo,Itesiwaju,202003,Igbojaye
-Oyo,Saki West,203001,Saki
-Oyo,Atisbo,203003,Ago   Aare
-Oyo,Ogbomoso North,210001,Ogbomoso
-Oyo,Ogbomoso South,210002,Ijeru
-Oyo,Saki     East,203005,Agoamodu
-Oyo,Ogo   Oluwa,210003,Ajaawa
-Oyo,Orire,210005,Ikoyi
-Oyo,Olrunsogo,212002,Igbeti
-Oyo,Orelope,212003,Igboho
-Oyo,Ibadan Central,201003,Igbo Ora
-Oyo,Ire,212001,Kishi
-Osun,Ede North,232001,
-Osun,Ayadaade ,221001,Gbongan
-Osun,Oriade,233011,Ikeji   Iie
-state,lga,postcode,facility
-Gombe ,Shongom,770002,Boh
-FCT,Kwali,904001,Kwali
-Enugu  ,Ezeag  ,401001,Isigwu Umana          
-Ekiti,Otun,372004,Otun
-Edo,Esan South East,310003,Ewohimi
-Ebonyi ,Oba   Ozara,491002,Egunkwo Onitsha
-Delta ,Uvwie,330003,Effurun
-Cross River  ,Abi,543002,Itigidi
-Borno,Hawul  ,603004,Marama 
-Benue,Vandekya,982001,Vandekya
-Bayelsa ,Abua Odual,510003,Abua
-Bauchi,Gamawa,752001,General Hospital
-Anambra ,Ihiala,431004,Uli
-Akwa Ibom,Abak,532001,Abak 
-Adamawa,Gombi,652001,Gombi
-Zamfara  ,Bungudu,881001,Bungudu
-Yobe,Buni Yadi,621002,Buni Yadi
-Anambra ,Ihiala,431005,Okija 
-Anambra ,Ihiala,431003,Ihiala
-Yobe,Damagum,622003,Damagum
-Yobe,Gaidam,632001,Geidam
-Yobe,Gashua,631001,Gashua
-Yobe,Potiskum,622002,Potiskum
-Yobe,Nguru,630001,Nguru
-Yobe,Damaturu,620001,GPO 
-Zamfara  ,Anka,890001,Anka
-Zamfara  ,Talatan Mafara,892001,Talatan Mafara
-Zamfara  ,Maru,890002,Maru
-Zamfara  ,Chafe,880003,Kucheri
-Zamfara  ,Shinkafi,883002,Shinkafi
-Zamfara  ,Isa,883001,Isa    
-Zamfara  ,Kauran Namoda,882001,Kauran Namoda
-Zamfara  ,Gusau,880001,Gusau
-Zamfara  ,Gummi,891001,Gummi    
-Adamawa,Hong,650002,Hong
+Adamawa,Demsa,642005,Borrong
+Adamawa,Fufure,640107,Fufore
+Adamawa,Ganye,641001,Ganye
 Adamawa,Girei,652005,FUT
-Zamfara  ,Chafe,880002,Chafe    
-Adamawa,Mubi South,650001,Mubi
+Adamawa,Gombi,652001,Gombi
 Adamawa,Guyuk,643001,Guyuk
-Adamawa,Shelleng,643002,Shelleng
+Adamawa,Hong,650002,Hong
+Adamawa,Jada,641003,Jada
 Adamawa,Lamurde,642002,Lamurde
+Adamawa,"Mayo Belwa",641002,"Mayo Belwa"
+Adamawa,"Mubi South",650001,Mubi
 Adamawa,Numan,642001,Numan
-Adamawa,Demsa,642005,Borrong
-Adamawa,Mayo Belwa,641002,Mayo Belwa
-Adamawa,Fufore,640107,Fufore 
-Adamawa,Demsa,642004,Demsa
-Adamawa,Yola South,640002,Yola town 
-Adamawa,Jada,641003,Jada 
-Adamawa,Ganye,641001,Ganye 
-Anambra ,Ekwusigo,435005,Ozubulu
-Anambra ,Ekwusigo,435003,Oraifite
-Anambra ,Ekwusigo,435009,Ichi
-Benue,Katsina,980001,Katsina Ala 
-Benue,Katsina,820001,GP.O
+Adamawa,Shelleng,643002,Shelleng
+Adamawa,Song,652001,Dumne
+Adamawa,"Yola North",640001,GPO
+Adamawa,"Yola South",640002,"Yola town"
+"Akwa Ibom",Abak,532001,Abak
+"Akwa Ibom",Eket,524001,Eket
+"Akwa Ibom",Etinan,522007,Mbioto
+"Akwa Ibom",Etinan,522001,Etinan
+"Akwa Ibom","Ibesikpo Asutan",521001,"Obot Idim"
+"Akwa Ibom","Ikot Abasi",534001,"Ikot Abasi"
+"Akwa Ibom","Ikot Abasi",534002,Ete
+"Akwa Ibom","Ikot Ekpene",530001,"Ikot Ekpene"
+"Akwa Ibom",Itu,520004,Itu
+"Akwa Ibom",Mbo,524002,Enwang
+"Akwa Ibom","Nsit Ubium",522004,"College of Education"
+"Akwa Ibom","Nsit Ubium",522006,"Ikot Ubo"
+"Akwa Ibom","Nsit Ubium",522008,"Ikot Ekwere"
+"Akwa Ibom","Nsit Ubium",522005,"Ikot Akpan Abia"
+"Akwa Ibom","Nsit Ubium",522002,Mbiaso
+"Akwa Ibom","Nsit Ubium",522003,Edeobom
+"Akwa Ibom",Okobo,521003,Okobo
+"Akwa Ibom",Onna,524002,"Awa Iman"
+"Akwa Ibom",Oron,523001,Oron
+"Akwa Ibom",Oron,523004,"Maritime Academy"
+"Akwa Ibom",Uruan,520002,Nwaniba
+"Akwa Ibom",Urue-Offong/Oruko,523002,Oyubia
+"Akwa Ibom",Uyo,520001,GPO
+"Akwa Ibom",Uyo,520003,Uniuyo
+Anambra,Aguata,422021,Umuchu
+Anambra,Aguata,422020,Uga
+Anambra,Aguata,422019,Isuofia
+Anambra,Aguata,422018,"Igbo Ukwu"
+Anambra,Aguata,423010,Amaokpala
+Anambra,Aguata,422016,Aguata
+Anambra,Aguata,422017,Achina
+Anambra,Anaocha,422002,"Adazi -Nnukwu"
+Anambra,Anaocha,422003,"Adai ani"
+Anambra,Anaocha,422014,Obeledu
+Anambra,Anaocha,422006,Nri
+Anambra,Anaocha,422005,Neni
+Anambra,Anaocha,422012,Ichida
+Anambra,Anaocha,422009,Enugwu-Adazi
+Anambra,Anaocha,422015,Akwaeze
+Anambra,Anaocha,422010,Aguluzigbo
+Anambra,Anaocha,422011,Agulu
+Anambra,Anaocha,422004,"Adazi Enu"
+Anambra,"Awka North",420008,Ebenebe
+Anambra,"Awka North",420005,Achalla
+Anambra,"Awka North",420009,Mgbakwu
+Anambra,"Awka South",420001,Awka
+Anambra,"Awka South",420007,Unizik
+Anambra,"Awka South",420003,Nise
+Anambra,"Awka South",420006,Nibo
+Anambra,"Awka South",420014,Mbaukwu
+Anambra,"Awka South",420002,Amawbia
+Anambra,Ayamelum,433013,Omor
+Anambra,Dunukofia,421009,Umunachi
+Anambra,Dunukofia,434006,Umudioka
+Anambra,Dunukofia,422008,"Ifite Ukpo"
+Anambra,Ekwusigo,435005,Ozubulu
+Anambra,Ekwusigo,435003,Oraifite
+Anambra,Ekwusigo,435009,Ichi
+Anambra,"Idemili North",434004,Ogidi
+Anambra,"Idemili North",434003,Obosi
+Anambra,"Idemili North",434010,Nkpor
+Anambra,"Idemili North",434105,Eziowelle
+Anambra,"Idemili North",434014,Aforigwe
+Anambra,"Idemili North",434001,Abatete
+Anambra,"Idemili North",434015,Nkpor
+Anambra,"Idemili North",434005,Umuoji
+Anambra,"Idemili South",422001,Oraukwu
+Anambra,"Idemili South",434008,"Ojoto Uno"
+Anambra,"Idemili South",434013,Ojoto
+Anambra,"Idemili South",434002,Oba
+Anambra,"Idemili South",434011,Nnokwa
+Anambra,"Idemili South",434007,Nnobi
+Anambra,"Idemili South",434017,"Awka  Etiti"
+Anambra,"Idemili South",434012,Alor
+Anambra,Ihiala,431005,Okija
+Anambra,Ihiala,431003,Ihiala
+Anambra,Ihiala,431004,Uli
+Anambra,Njikoka,421010,Nimo
+Anambra,Njikoka,421004,Nawfia
+Anambra,Njikoka,421007,Ezi-Abba
+Anambra,Njikoka,421011,Enugwu-Agidi
+Anambra,Njikoka,421001,"Enugu  Ukwu"
+Anambra,Njikoka,422007,Abagana
+Anambra,"Nnewi North",435001,Nnewi
+Anambra,"Nnewi South",435007,"Nkwo Ezinifite"
+Anambra,"Nnewi South",435008,Ekwulumili
+Anambra,"Nnewi South",435002,Amichi
+Anambra,"Nnewi South",435010,Unubi
+Anambra,"Nnewi South",435006,Ukpor
+Anambra,"Nnewi South",435004,Osumenyi
+Anambra,Ogbaru,431001,Atani
+Anambra,"Onitsha North",430001,Onitsha
+Anambra,"Onitsha North",430003,Fegge
+Anambra,"Onitsha South",430003,Ogboefere
+Anambra,"Orumba North",423008,Ndiokpalaeze
+Anambra,"Orumba North",422022,Nanka
+Anambra,"Orumba North",422016,Fed.Poly
+Anambra,"Orumba North",423002,"Enugwu - Abor"
+Anambra,"Orumba North",422011,Awgbu
+Anambra,"Orumba North",423001,Ajalli
+Anambra,"Orumba North",423009,Ufuma
+Anambra,"Orumba North",423007,nyiba
+Anambra,"Orumba South",423006,Umunze
+Anambra,"Orumba South",423005,Ogbunka
+Anambra,"Orumba South",423003,Ezira
+Anambra,"Orumba South",423006,Akpu
+Anambra,"Orumba South",423011,Isulo
+Anambra,"Orumba South",423004,Ihite
+Anambra,Oyi,421005,Nawgu
+Anambra,Oyi,433005,Awkuzu
+Anambra,Oyi,433002,Ogbunike
+Anambra,Oyi,433004,Umunya
+Anambra,Oyi,421012,Ukwulu
+Anambra,Oyi,433003,Nteje
+Anambra,Oyi,433001,Nkwelle-Ezunaka
+Bauchi,Bauchi,740002,"Gidan Mai"
+Bauchi,Bauchi,740003,"Federal Secretariat"
+Bauchi,Bauchi,741001,Dass
+Bauchi,Bauchi,743001,"Army Barrack"
+Bauchi,Bauchi,740005,Yalwa
+Bauchi,Bauchi,740001,Wunti
+Bauchi,Bauchi,740004,Toro
+Bauchi,Bauchi,741002,"Tafawa balewa"
+Bauchi,Bauchi,742001,Ningi
+Bauchi,Darazo,750004,"Near S.S Kari"
+Bauchi,Darazo,750003,Adj.Polic
+Bauchi,Gamawa,752001,"General Hospital"
+Bauchi,Itas/Gadau,751002,"Kofar Fada"
+Bauchi,Jama'are,751003,"General Hospital"
+Bauchi,Katagum,751001,Nassarawa
+Bauchi,Misau,750001,"General Hospital"
+Bauchi,Shira,751106,Yana
+Bayelsa,Brass,561001,Brass
+Bayelsa,Nembe,561002,Nembe
+Bayelsa,Ogbia,561003,Ogbia
+Bayelsa,Sagbama,561004,Sagbama
+Bayelsa,Yenagoa,560001,Yenagoa
+Benue,Apa,972003,"Iga  Okpaya"
+Benue,Gboko,981001,Gboko
+Benue,Guma,970004,Daudu
+Benue,"Gwer East",971001,Aliade
 Benue,Kwande,980001,Adikpo
-Bayelsa ,Yenagoa,560001,Yenagoa
-Bayelsa ,Brass,561001,Brass
-Benue,Oshongo,981002,Lessel Mbagwa
-Benue,Gboko HO,981001,Gboko
-Benue,Otukpoo H.O,972002,Allan -Ejor 
-Benue,Apa,972003,Iga  Okpaya 
+Benue,Makurdi,870003,"Makurdi Modern Market"
+Benue,Makurdi,970001,Makurdi
+Benue,Makurdi,970002,Makurdi
+Benue,Obi,972008,"Oju Ost"
 Benue,Ogbadibo,972006,Orokam
-Benue,Adoka,972001,Adoka
-Benue,Oju,972008,Oju Ost
 Benue,Okpokwu,972007,Ugbokolo
 Benue,Okpokwu,972005,Okpoga
-Benue,Makurdi,870003,Makurdi Modern Market
-Borno,Shani ,603002,Shani 
-Borno,Damboa  ,601001,Damboa
+Benue,Oturkpo,972001,Otukpo
+Benue,Oturkpo,972001,Adoka
+Benue,Oturkpo,972002,"Allan -Ejor"
+Benue,Ushongo,981002,"Lessel Mbagwa"
+Benue,Vandeikya,982001,Vandekya
+Borno,Askira/Uba,601003,Askira
+Borno,Askira/Uba,601004,Lassa
+Borno,Bama,610001,Bama
 Borno,Biu,603001,Biu
-Benue,Makurdi,970002,Makurdi
-Borno,kondugalga,610002,Konduga
-Benue,Makurdi,970001,Makurdi
-Borno,Monguno ,612001,Monguno 
-Borno,Kukawa,612002,Kukawa 
-Borno,Jere,600002,Baga Rd
-Cross River  ,Obudu,552001,Obudu 
-Cross River  ,Ikom,551001,Ikom
-Delta ,Sapele ,321006,Sapele
-Ebonyi ,Ikwo,482002,Onuagbonyi    
-Ebonyi ,Abakaliki ,481001,Abakaliki    
-Ebonyi ,Afikpo,490001,Afikpo    
-Ebonyi ,Oha   Ozara,491002,Ishiagu    
-Ebonyi ,Oha   Ozara,492001,Okposi
-Edo,Esan Central,310005,Ewu
-Edo,Esan North East,311002,Ubiaja
-Edo,Esan West,310006,Ambrose Alli University
-Edo,Owan East,313001,Afuze
-Edo,Etsako Central,312006,Fugar
-Edo,Akoko Edo  ,312005,Igarra
-Edo,Etsako West,312002,Uzairue
-Edo,Okpoba Okha,300005,Federal Secretariat
-Edo,Etsako West,312004,Agbede
+Borno,Damboa,601001,Damboa
+Borno,Dikwa,611001,Dikwa
+Borno,Gwoza,610003,Gwoza
+Borno,Hawul,603004,Marama
+Borno,Jere,600002,"Baga Rd"
+Borno,Kaga,601002,Binisheik
+Borno,Konduga,610002,Konduga
+Borno,Kukawa,612002,Kukawa
+Borno,Maiduguri,600004,"University of maiduguri"
+Borno,Maiduguri,600005,Gwange
+Borno,Maiduguri,600001,GPO
+Borno,Maiduguri,600003,Fed.Sec
+Borno,Marte,611003,Marte
+Borno,Monguno,612001,Monguno
+Borno,Ngala,611002,Ngala
+Borno,Shani,603002,Shani
+"Cross River",Abi,543002,Itigidi
+"Cross River","Calabar Municipal",540006,"Poly Cal"
+"Cross River","Calabar Municipal",540003,"Housing Estate"
+"Cross River","Calabar Municipal",540007,EPZ
+"Cross River","Calabar Municipal",540002,"Edgerly Rd"
+"Cross River","Calabar Municipal",540001,Calabar
+"Cross River","Calabar Municipal",540005,Ambo
+"Cross River","Calabar Municipal",540004,UNICAL
+"Cross River",Ikom,551001,Ikom
+"Cross River",Obubra,551004,Obubra
+"Cross River",Obudu,552001,Obudu
+"Cross River",Odukpani,541001,"Creek Town"
+"Cross River",Ogoja,550001,Ogoja
+"Cross River",Yakurr,543001,Ugep
+Delta,"Aniocha North",320009,Onicha-Ugbo
+Delta,"Aniocha North",320110,"Onicha Olona"
+Delta,"Aniocha North",320014,Obior
+Delta,"Aniocha North",320007,Issele-Uku
+Delta,"Aniocha North",320018,Ezi
+Delta,"Aniocha South",320011,"Ogwashi Ukwu"
+Delta,"Aniocha South",320015,Nsukwa
+Delta,"Aniocha South",320012,Isheagu
+Delta,"Aniocha South",320018,Ewulu
+Delta,Burutu,332010,Foreadoa
+Delta,Burutu,332009,burutu
+Delta,"Ethiope East",331003,Kokori
+Delta,"Ethiope East",333003,Ewo-Urhobe
+Delta,"Ethiope East",331002,Eku
+Delta,"Ethiope West",331101,Oghara
+Delta,"Ethiope West",331001,Abraka
+Delta,"Ika North East",321002,Umunede
+Delta,"Ika North East",321003,Owa-Oyitu
+Delta,"Ika North East",321105,Owa-Alero
+Delta,"Ika North East",332007,Igbodo
+Delta,"Ika North East",321005,Idumuesah
+Delta,"Ika South",320013,Idumuje-Ugboko
+Delta,"Ika South",321001,Agbor
+Delta,"Ika South",321101,Ekuku-Agbor
+Delta,"Isoko North",334002,Otibfo
+Delta,"Isoko North",334112,Otar-Owhe
+Delta,"Isoko North",332001,Omore
+Delta,"Isoko North",334105,Olomore
+Delta,"Isoko North",334003,Oleh
+Delta,"Isoko North",334115,Okpe-Isoko
+Delta,"Isoko North",334107,Igbide
+Delta,"Isoko North",334001,Aviaara
+Delta,"Isoko North",334196,Uzere
+Delta,"Ndokwa East",322133,Ossissa
+Delta,"Ndokwa East",332002,Amai
+Delta,"Ndokwa West",332005,Umutu
+Delta,"Ndokwa West",332004,Ndemili
+Delta,"Ndokwa West",332001,Kwale
+Delta,"Ndokwa West",332003,Ashaka
+Delta,Okpe,330001,Orerokpe
+Delta,Okpe,330101,Adagbaasa
+Delta,"Oshimili North",320002,Akwukwu-Igbo
+Delta,"Oshimili North",320005,Okaman
+Delta,"Oshimili North",310004,Illah
+Delta,"Oshimili North",320004,Ibusa
+Delta,"Oshimili North",320006,Ebu
+Delta,"Oshimili South",520001,Asaba
+Delta,Sapele,321006,Sapele
+Delta,Udu,330103,Ovwafri
+Delta,Udu,330002,DSO
+Delta,"Ughelli North",333001,Ughelli
+Delta,"Ughelli North",333004,Orogun
+Delta,"Ughelli North",333110,Agbarho
+Delta,"Ughelli North",320007,Issele-Mkpittime
+Delta,"Ughelli South",333002,Ekekpanre
+Delta,Ukwuani,332006,Obiaruku
+Delta,Uvwie,330003,Effurun
+Delta,"Warri North",331004,Koko
+Delta,"Warri South",332008,Warri
+Ebonyi,Abakaliki,481001,Abakaliki
+Ebonyi,"Afikpo North",490003,Unwana
+Ebonyi,"Afikpo North",490002,"Fed Poly Technic"
+Ebonyi,"Afikpo North",490001,Afikpo
+Ebonyi,"Ezza South",481001,Onueke
+Ebonyi,Ikwo,482002,Onuagbonyi
+Ebonyi,Ivo,491002,Ishiagu
+Ebonyi,Ohaozra,492002,Uburu
+Ebonyi,Ohaozra,492001,Okposi
+Ebonyi,Onicha,491002,"Egunkwo Onitsha"
+Edo,Akoko-Edo,312005,Igarra
+Edo,Egor,302001,Ugbowo
+Edo,"Esan Central",311004,Irrua
+Edo,"Esan Central",310005,Ewu
+Edo,"Esan North East",311002,Ubiaja
+Edo,"Esan North East",311001,Uromi
+Edo,"Esan South East",310003,Ewohimi
+Edo,"Esan West",311003,Iruekpen
+Edo,"Esan West",310001,Ekpoma
+Edo,"Esan West",310006,"Ambrose Alli University"
+Edo,"Etsako Central",312006,Fugar
+Edo,"Etsako West",312002,Uzairue
+Edo,"Etsako West",312001,Auchi
+Edo,"Etsako West",312003,Agenebode
+Edo,"Etsako West",312004,Agbede
+Edo,Igueben,310002,Ebelle
+Edo,Igueben,310004,Igueben
+Edo,"Ikpoba Okha",300005,"Federal Secretariat"
+Edo,Oredo,300001,"G P O"
+Edo,Oredo,300002,Akpakpava
 Edo,Orhionmwon,301002,Igbanke
 Edo,Orhionmwon,301001,Abudu
-Edo,Etsako West,312003,Agenebode
-Edo,Etsako West,312001,Auchi
-Edo,Esan West,311003,Iruekpen
-Edo,Esan West,310001,Ekpoma
-Edo,Esan North East,311001,Uromi
-Edo,Esan Central,311004,Irrua
-Ebonyi ,Oha   Ozara,492002,Uburu    
-Ebonyi ,Afikpo,490002,Fed Poly Technic 
-Ebonyi ,Afikpo,490003,Unwana    
-Edo,Oredo,300002,Akpakpava
-Ekiti,Ayede,372003,Ayede
-Ekiti,Ijesa - Isu,370003,Ijesa - Isu
-Ekiti,Isan ,371007,Isan
-Ekiti,Omuo Oke,371008,Omuo Oke
-Ekiti,Usi,371006,Usi
-Ekiti,Ilogbo,371004,Ilogbo
-Ekiti,Iloro,372002,Iloro
-Ekiti,Aisegba,370005,Aisegba
-Ekiti,Aiyetoro,371009,Aiyetoro
-Ekiti,Ijero,372001,Ijero
-Ekiti,Ilupeju,371008,Ilupeju
-Ekiti,Ode  ,370004,Ode  
-Ekiti,Oye,371010,Oye 
-Ekiti,Omuo,370006,Omuo
-Ekiti,Ire,370002,Ire
-Edo,Oredo,300001,G P O
-Ekiti,Iye,372003,Iye
-Ekiti,Iyin,362005,Iyin
-Ekiti,Ifaki,371002,Ifaki
-Ekiti,Igbara Odo,361002,Igbara Odo
-Ekiti,Okemesi,362002,Okemesi
-Ekiti,Awo,362007,Awo
-Ekiti,Orin,361003,Orin
-Ekiti,Ise,361003,Ise
-Ekiti,Aramoko,362001,Aramoko
-Ekiti,Ido ,372001,Ido 
-Ekiti,Iluomoba,370007,Iluomoba
-Ekiti,Osi,271005,Osi
-Ekiti,Igede,362006,Igede
-Ekiti,Ilawe,360003,Ilawe
-Ekiti,Ijan,360002,Ijan
-Ekiti,Efon Alaye,362004,Efon Alaye
+Edo,Orhionmwon,300003,Ologbo
+Edo,"Owan East",313001,Afuze
+Edo,"Owan West",313003,Sobe
+Edo,"Owan West",313002,"Sabogida Ora"
+Edo,Uhunmwonde,301003,Ehor
+Ekiti,"Ado Ekit",360001,"Ado Ekiti"
+Ekiti,Efon,362004,"Efon Alaye"
+Ekiti,"Ekiti East",371008,"Omuo Oke"
+Ekiti,"Ekiti South West",370006,Omuo
+Ekiti,"Ekiti West",362002,Okemesi
+Ekiti,"Ekiti West",362006,Igede
+Ekiti,"Ekiti West",362003,Erinjinyan
 Ekiti,Emure,361004,Emure
-Ekiti,Erinjinyan,362003,Erinjinyan
+Ekiti,Gbonyin,370007,Iluomoba
+Ekiti,Gbonyin,360002,Ijan
+Ekiti,Gbonyin,370005,Aisegba
+Ekiti,Gbonyin,370004,Ode
+Ekiti,"Ido Osi",371006,Usi
+Ekiti,"Ido Osi",271005,Osi
+Ekiti,"Ido Osi",361003,Orin
+Ekiti,"Ido Osi",371004,Ilogbo
+Ekiti,"Ido Osi",371002,Ifaki
+Ekiti,"Ido Osi",372001,Ido
+Ekiti,"Ido Osi",371009,Aiyetoro
+Ekiti,Ijero,372002,Iloro
+Ekiti,Ijero,372001,Ijero
 Ekiti,Ikere,361001,Ikere
-Ekiti,Ado Ekiti,360001,Ado Ekiti
-Enugu  ,Oji   River ,402001,Acht          
-Enugu  ,Igbo   Etiti,411003,Ogbede    
-Enugu  ,Udenu ,412002,Obollo   Afor    
-Enugu  ,Oji   River ,401008,Oji   River    
-Enugu  ,Nsukka ,410001,UNN    
-Enugu  ,Aninri ,402002,Nenwe    
-Enugu  ,Ezeagu,401006,Iwollo     
-Enugu  ,Oji River ,401007,Inyi    
-Enugu  ,Enugu North,400001,Asata          
-Enugu  ,Igbo   Eze North,413001,Enugu Ezike 
-Enugu  ,Enugu South,400001,New Haven          
-Enugu  ,Nkanu Wast,402004,Agbani
-Enugu  ,Udi,401001,Udi    
-Enugu  ,Uzouwani,411001,Umulok       
-Enugu  ,Ngwo,410003,9th Mile Counter
-Enugu  ,Uzouwani,411002,Adani
-Enugu  ,Udi,401010,Umuabi    
-Enugu  ,Udi,401002,Affa
-Enugu  ,Enugu South,400008,Federal Secretariat   
-Enugu  ,Enugu South,400009,Uwani     Enugu
-Enugu  ,Enugu South,400007,Independency Layout 
-Enugu  ,Enugu South,400006,Enugu Campus
-Enugu  ,Enugu South,400004,Agbani Rd. 
-Enugu  ,Enugu North,400003,Ogbete    
-Enugu  ,Enugu North,400001,GPO
-Enugu  ,Nsukka ,410002,Nsukka    
-FCT,Abaji,905001,Abaji
-FCT,Gwagwalada,902001,University of Abuja
-FCT,Bwari,901002,Kubwa
-FCT,AMAC,900003,Wuse
-Gombe ,Kaltungo,770001,Kaltungo
-Gombe ,Kwami,760003,Bojude
-Gombe ,Balanga,761001,Bambam
-Gombe ,Yamaltu Deba,761003,Deba
-Gombe ,Akko,771002,Kumo
-Gombe ,Dukku,760005,Dukku
-Gombe ,Billiri,771001,Billiri
-Gombe ,Funakaye,762001,Bajoga
-Gombe ,Gombe ,760002,Kasawa
-Taraba   ,Kurmi,671004,Baissa
-Sokoto,Gidan Madi    .,841001,Gidan Madi    .
-Rivers,Ahoada,510001,Ahoada
-Plateau,Quan-pan,940003,Ba'ap
-Plateau,Mikang,942002,Garkawa
-Plateau,Langtang South,941002,Mabudi
-Plateau,Wase,942001,Wase
-Plateau,Dengi,942003,Dengi  
-Plateau,Langtang,941001,Langtang
-Plateau,Shendam,940004,Demshin
-Plateau,Kanke,933003,Amper
-Plateau,Mangu,933001,Gindiri
-Plateau,Pankshin,933001,Pankshin
-Plateau,Bokkos,932004,Daffo
-Plateau,Barkin Ladi,931002,Kurra Falls
-Plateau,Jos South,933009,NIPSS
-Plateau,Jos North,940006,Zaria Rd.
-Plateau,Jos North,930003,University of Jos
-Plateau,Jos South,930010,Vom
-Plateau,Jos South,930008,Bukuru
-Plateau,Barkin Ladi,931001,Barkin Ladi
-Plateau,Kanke,933002,Kabwir
-Plateau,Shendam,940001,Shendam
-Rivers,Obio  Akpor,500006,Federal Secretariat
-Rivers,Obio  Akpor,500011,College Of Arts & Science
-Rivers,Obio  Akpor,500010,COE
-Rivers,Obio  Akpor,500004,Uniport
-Sokoto,Sokoto South,840002,Marina
-Sokoto,Sokoto South,840001,GPO
-Gombe ,Gombe ,760001,Gombe
-Gombe ,Balanga,761002,Talasse
-FCT,AMAC,900009,DeiDei
-FCT,AMAC,900001,Mambila
-FCT,AMAC,900001,NASS
-FCT,AMAC,900001,NIPOST Corp. HQtrs
-FCT,AMAC,900001,Federal Secretariat
-FCT,AMAC,900007,Nyanya
-FCT,AMAC,900008,Karo
-FCT,AMAC,900001,GPO
-FCT,Gwagwalada,902001,Gwagwalada
-FCT,Bwari,901001,Bwari
-FCT,AMAC,900002,ADCPA
-Ogun ,Remo North,121004,Isara
-Jigawa,Hadejia,731001,Hadejia
-Jigawa,Garki,732003,Garki
-Jigawa,Dutse,720005,Federal Secretariat
-Jigawa,Dutse,720001,GPO
-Jigawa,Birniwa,731004,Birniwa
-Jigawa,Birnin Kudu,721001,Birnin Kudu
+Ekiti,Ikole,370001,Ikole
+Ekiti,Ikole,370003,"Ijesa - Isu"
+Ekiti,Ilejemeje,372003,Iye
+Ekiti,Ilejemeje,361002,"Igbara Odo"
+Ekiti,Irepodun/Ifelodun,362005,Iyin
+Ekiti,Irepodun/Ifelodun,360003,Ilawe
+Ekiti,Irepodun/Ifelodun,362007,Awo
+Ekiti,Ise/Orun,361003,Ise
+Ekiti,Moba,372004,Otun
+Ekiti,Moba,362001,Aramoko
+Ekiti,Oye,372003,Ayede
+Ekiti,Oye,371010,Oye
+Ekiti,Oye,371007,Isan
+Ekiti,Oye,212001,Kishi
+Ekiti,Oye,370002,Ire
+Ekiti,Oye,371008,Ilupeju
+Enugu,Aninri,402002,Nenwe
+Enugu,"Enugu North",400003,Ogbete
+Enugu,"Enugu North",400001,Asata
+Enugu,"Enugu South",400004,"Agbani Rd."
+Enugu,"Enugu South",400009,"Uwani     Enugu"
+Enugu,"Enugu South",400001,"New Haven"
+Enugu,"Enugu South",400007,"Independency Layout"
+Enugu,"Enugu South",400008,"Federal Secretariat"
+Enugu,"Enugu South",400006,"Enugu Campus"
+Enugu,Ezeagu,401006,Iwollo
+Enugu,Ezeagu,401001,"Isigwu Umana"
+Enugu,Igbo-Etiti,411003,Ogbede
+Enugu,"Igbo-Eze North",413001,"Enugu Ezike"
+Enugu,"Nkanu West",402004,Agbani
+Enugu,Nsukka,410002,Nsukka
+Enugu,Nsukka,410001,UNN
+Enugu,"Oji River",401007,Inyi
+Enugu,"Oji River",401008,"Oji   River"
+Enugu,"Oji River",402001,Acht
+Enugu,Udenu,412002,"Obollo   Afor"
+Enugu,Udi,401010,Umuabi
+Enugu,Udi,401001,Udi
+Enugu,Udi,401002,Affa
+Enugu,Udi,410003,"9th Mile Corner"
+Enugu,Uzo-Uwani,411001,Umulona
+Enugu,Uzo-Uwani,411002,Adani
+FCT-Abuja,Abaji,905001,Abaji
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900003,Wuse
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900007,Nyanya
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900008,Karo
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900001,"Federal Secretariat"
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900009,DeiDei
+FCT-Abuja,"Abuja Municipal Area Council (AMAC)",900002,ADCPA
+FCT-Abuja,Bwari,901002,Kubwa
+FCT-Abuja,Bwari,901001,Bwari
+FCT-Abuja,Gwagwalada,902001,Gwagwalada
+FCT-Abuja,Kwali,904001,Kwali
+Gombe,Akko,771002,Kumo
+Gombe,Balanga,761002,Talasse
+Gombe,Balanga,761001,Bambam
+Gombe,Billiri,771001,Billiri
+Gombe,Dukku,760005,Dukku
+Gombe,Funakaye,762001,Bajoga
+Gombe,Gombe,760002,Kasawa
+Gombe,Gombe,760001,Gombe
+Gombe,Kaltungo,770001,Kaltungo
+Gombe,Kwami,760004,"Angwar Sarki"
+Gombe,Kwami,760003,Bojude
+Gombe,Shongom,770002,Boh
+Gombe,"Yamaltu Deba",761003,Deba
+Jigawa,Auyo,731003,Auyo
 Jigawa,Babura,732007,Babura
-Kano,Garun Mallam,710001,Garun MaIIam
-Kano,Kumbotso,700010,Panshekara
-Kano,Gwale,700006,Bayero university
-Kano,Wudil,713001,Wadil
-Kano,Gaya,713003,Gaya
-Kano,Garko,712001,Garko
-Kano,Takai,712001,Takai
+Jigawa,Biriniwa,731004,Birniwa
+Jigawa,"Birnin Kudu",721001,"Birnin Kudu"
+Jigawa,Dutse,720001,GPO
+Jigawa,Dutse,720005,"Federal Secretariat"
+Jigawa,Gagarawa,732007,Gagarawa
+Jigawa,Garki,732003,Garki
+Jigawa,Gumel,732001,Gumel
+Jigawa,Gwaram,721002,Gwaram
+Jigawa,Gwiwa,705003,Gwiwa
+Jigawa,Hadejia,731001,Hadejia
+Jigawa,Jahun,720004,Jahun
+Jigawa,"Kafin Hausa",731002,"Kafin Hausa"
+Jigawa,Kaugama,730002,Kaugama
+Jigawa,"Kiri Kasama",731005,Kirikasamma
+Jigawa,Kiyawa,720003,Kiyawa
+Jigawa,Maigatari,731006,Maigatari
+Jigawa,"Mallam Madori",730001,"Mallam Madori"
+Jigawa,Ringim,732005,Ringim
+Jigawa,Roni,705002,Roni
+Jigawa,Taura,733004,Taura
+Kaduna,"Birnin Gwari",800008,BirninGwari
+Kaduna,Giwa,810007,"Mile 10 A.B.U"
+Kaduna,Giwa,810008,Giwa
+Kaduna,Igabi,810009,Jaji
+Kaduna,Ikara,342001,Ikare
+Kaduna,Ikara,812001,Ikara
+Kaduna,Jaba,801003,Kwoi
+Kaduna,Jema'a,801002,"Kogun River"
+Kaduna,Jema'a,601004,Godogodo
+Kaduna,Jema'a,801001,Kafanchan
+Kaduna,Kachia,802003,Kachia
+Kaduna,"Kaduna North",800007,"New Town"
+Kaduna,"Kaduna North",800004,Kawo
+Kaduna,"Kaduna North",800001,GPO
+Kaduna,"Kaduna South",800006,Kakuri
+Kaduna,"Kaduna South",800002,"Kaduna Junetion"
+Kaduna,"Kaduna South",800005,Barnawa
+Kaduna,Kagarko,807004,Kubachia
+Kaduna,Kajuru,800009,"Kasuwan Magani"
+Kaduna,Kaura,801006,Manchok
+Kaduna,Kaura,801005,Kagoro
+Kaduna,Kubau,812003,"Dutsen Wai"
+Kaduna,Makarfi,812002,Makarfi
+Kaduna,"Sabon Gari",810001,Zaria
+Kaduna,"Sabon Gari",810006,Samaru
+Kaduna,"Sabon Gari",810002,"Sabon Gari"
+Kaduna,Sanga,801007,Gwantu
+Kaduna,Soba,810005,Soba
+Kaduna,"Zangon Kataf",802002,Zonkwa
+Kaduna,"Zangon Kataf",802001,"Zongon Kataf"
+Kaduna,"Zangon Kataf",801008,Madakiya
+Kaduna,Zaria,810004,"Zaria City"
+Kaduna,Zaria,810003,Wusasa
+Kano,Bebeji,710001,Bagauda
+Kano,Dala,700005,"Fed Sect"
 Kano,Danbatta,702004,Danbatta
-Kano,Dawakin Tofa ,701001,Dawakin Tofa 
-Kano,Minjibir,702003,Minjibir
+Kano,"Dawakin Tofa",701001,"Dawakin Tofa"
+Kano,Fagge,700007,"Sabon Gari"
+Kano,Garko,712001,Garko
+Kano,"Garun Mallam",710001,"Garun MaIIam"
+Kano,Gaya,713003,Gaya
 Kano,Gezawa,702001,Gerawa
+Kano,Gwale,700006,"Bayero university"
+Kano,Gwarzo,710001,Gwarzo
+Kano,Kiru,711001,"Kwanar Dangora"
+Kano,Kumbotso,700010,Panshekara
+Kano,Madobi,711003,Madobi
+Kano,Minjibir,702003,Minjibir
+Kano,Nasarawa,700001,GPO
+Kano,Nasarawa,700003,Bompai
+Kano,Rano,710001,Rano
+Kano,Takai,712001,Takai
+Kano,Tarauni,700008,"Gyadi Gyadi"
+Kano,Tarauni,700011,"Audu Bako Secretariat"
+Kano,"Tudun Wada",710003,"Tudun Wada"
 Kano,Ungogo,700004,Airport
-Kano,Tarauni,700011,Audu Bako Secretariat
-Kano,Fagge,700007,Sabon Gari 
-Kano,Tarauni,700008,Gyadi Gyadi
-Kano,Nassarawa,700003,Bompai
-Kano,Nassarawa,700001,GPO 
-Kebbi,Sakaba,872002,Rijah 
-Kebbi,Koko-Besse,871002,Off Jega 
-Kebbi,Yelwa Yauri,870001,Emir's Palace 
-Kebbi,Zuru,872001,GRA 
-Kebbi,Bunza,862002,Kamba 
-Kebbi,Dandi,862001,Zango 
-Kebbi,Gwandu,860003,Emir's Palace
-Kebbi,Arewa,863001,Market 
-Kebbi,Jega,863002,Sokoto 
-Kebbi,Argungu,681001,Sokoto 
-Kebbi,Birnin Kebbi,860001,Salihu Attahiru 
-Kwara,Ekiti  ,252001,Eruku
-Kwara,Ekiti  ,252102,Osi
-Kebbi,Birnin Kebbi,860001,Haliru Abidu 
-Kwara,Irepodun,230004,Erin   Osun
-Kwara,Ifelodun,231006,Iba 
-Kwara,Oyun,250006,Ijagbo
-Kwara,Ofa,250001,Offa
-Kwara,Pategi,243103,Pategi
-Kwara,Bode Saadu,241001,Bode Saadu
-Kwara,Oyun,240010,Ojoku
-Kwara,Oyun,250005,Irra
-Kwara,Oyun,250002,Ikotun 
+Kano,Wudil,713001,Wadil
+katsina,Bakori,832002,Bakori
+katsina,Daura,820001,Daura
+katsina,Dutsin-Ma,821001,Dutsinma
+katsina,Faskari,832001,Faskari
+katsina,Funtua,830001,Funtua
+katsina,Katsina,980001,"Katsina Ala"
+katsina,Katsina,820001,GP.O
+katsina,Malumfashi,833001,Malumfashi
+katsina,Mani,825002,Mani
+Kebbi,Aleiro,863003,Aleiro
+Kebbi,"Arewa Dandi",863001,Market
+Kebbi,Argungu,681001,Sokoto
+Kebbi,Bagudo,871001,Secretarriat
+Kebbi,"Birnin Kebbi",860001,"Haliru Abidu"
+Kebbi,Bunza,862002,Kamba
+Kebbi,Dandi,862001,Zango
+Kebbi,Gwandu,860003,"Emir's Palace"
+Kebbi,Jega,863002,Sokoto
+Kebbi,Koko-Besse,871002,"Off Jega"
+Kebbi,Sakaba,872002,Rijah
+Kebbi,Yauri,870001,"Emir's Palace"
+Kebbi,Zuru,872001,GRA
+Kogi,Ajaokuta,263003,Ajaokuta
+Kogi,Ankpa,270001,Ankpa
+Kogi,Bassa,273004,Oguma
+Kogi,Dekina,272003,Egume
+Kogi,Dekina,272001,Dekina
+Kogi,Dekina,272002,Anyangba
+Kogi,Ibaji,271002,Onyedega
+Kogi,Idah,271001,Idah
+Kogi,Ijumu,261005,Iyara
+Kogi,Ijumu,261007,Iyamoye
+Kogi,Ijumu,262001,Isanlu
+Kogi,Ijumu,261002,"Iffe Ijumu"
+Kogi,Ijumu,261003,"Ekirw   Adde"
+Kogi,Ijumu,262004,Ejuku
+Kogi,Ijumu,262007,Ejiba
+Kogi,Ijumu,262006,Egbeda
+Kogi,Ijumu,262005,Egbe
+Kogi,Ijumu,262002,Amuro
+Kogi,Ijumu,260006,"Odo   Ere"
+Kogi,Ijumu,261008,"Aiyetoro Gbede"
+Kogi,Ijumu,262003,Mopa
+Kogi,Kabba-Bunu,261001,Kabba
+Kogi,Lokoja,260001,GPO
+Kogi,Ofu,271003,Ejule
+Kogi,Ogori-Magongo,263002,ogori
+Kogi,Okehi,264001,Ihima
+Kogi,Okene,263001,Okene
+Kogi,Okene,264002,Itakpe
+Kogi,Olamaboro,270003,Okpo
+Kogi,Omala,270002,Abeojukulo
+Kwara,Asa,240009,Afon
+Kwara,Baruten,242002,Okuta
 Kwara,Edu,243002,Lafiagi
 Kwara,Edu,234001,Bacita
-Kwara,Oyun,250001,Igosun
-Ogun ,Yewa South ,111004,Oke-Odan
-Ogun ,Obafemi  Owode,111005,Owode
-Ogun ,Imeko  Afon,110001,Imeko
-Ogun ,Yewa North,111001,Ayetoro
-Ogun ,Obafemi Owode,121001,Redeemed Church
-Ogun ,Odeda,110006,FCE
-Ogun ,AbeokutaNorth,110003,Totoro
-Ogun ,Yewa South ,111005,Owode Yewa
-Ogun ,Yewa South ,111002,Iiro
-Ogun ,Imeko  Afon,110001,Imeko Sub.
-Ogun ,Obafemi Owode,110004,Federal Sec.Complex
-Ogun ,Odeda,110008,UNAAB
-Ogun ,Odeda,110007,Odeda
-Ogun ,Abeokuta South,110001,GPO
-Osun,Irepodun  ,251001,Omuaran
-Osun,Irepodun  ,251006,Oro 
-Osun,Irepodun  ,251007,Agbamu
-Osun,Irepodun  ,251002,Arandun
-Osun,Irepodun  ,251013,Esie
-Osun,Irepodun  ,230002,Ilobu
-Kwara,Irepodun,251001,Omuaran
-Kwara,Irepodun,251006,Oro 
-Kwara,Irepodun,251007,Agbamu
-Kwara,Irepodun,251002,Arandun
-Taraba   ,Zing,661003,Zing 
-Taraba   ,Lau,662001,Lau 
-Taraba   ,Gassol,6,Mutum Biyu
-Taraba   ,Gashaka,663001,Serti 
-Taraba   ,Donga,671001,Donga 
-Rivers,Akulga,504004,Abonnema
-Rivers,Eleme,501001,Eleme
-Rivers,Okirika,500009,Okirika
-Rivers,Opobo  Nkoro,503002,Opobo
-Rivers,Ahoada,510001,Ahoada
-Plateau,Shendam,942002,Yelwa Ishar
-Plateau,Jos South,930007,Anglo Jos
-Plateau,Mangu,932001,Mangu
-Plateau,Jos South,930011,Federal Secretariat
-Plateau,Jos North,900001,GPO
-Plateau,Jos North,930004,Jos North
-Plateau,Jos North,930002,Jos Town
-Ekiti,Ikole,370001,Ikole
-Edo,Uhunmwonde,301003,Ehor
-Edo,Owan West,313002,Sabogida Ora
-Edo,Owan West,313003,Sobe
-Ebonyi ,Ezza,481001,Onueke    
-Delta ,Aniocha,320110,Onicha-Olona
-Delta ,Aniocha,320009,Onicha-Ugbo
-Delta ,Ika North,321005,Idumuesah
-Delta ,Ndokwa East,332002,Amai
-Delta ,Ika North,321003,Owa-Oyitu
-Delta ,Ika North,321105,Owa-Alero
-Delta ,Ugbelli North,333110,Agbarbo
-Delta ,Ugbelli North,333004,Orogun
-Delta ,Ethiope West,331101,Oghara
-Delta ,Ethiope West,331001,Abraka
-Delta ,Ugbelli South,333002,Ekekpanre
-Delta ,Ugbelli North,333001,Ughelli
-Delta ,Isoko North,334196,Uzere
-Delta ,Isoko North,334105,Olomore
-Delta ,Warri South,332008,Warri
-Bauchi,katagum,751001,Nassarawa   
-Bauchi,Itas Gadau,751002,Kofar Fada
-Bauchi,Jama'are,751003,General Hospital
-Bauchi,Shira,751106,Yana 
-Bauchi,Darazo,750004,Near S.S Kari
-Bauchi,Misau,750001,General Hospital
-Anambra ,Nnewi North,435001,Nnewi
-Anambra ,Idemili South,434017,Awka  Etiti
-Anambra ,Nnewi South,435002,Azigbo
-Anambra ,Anaocha,422014,Obeledu
-Anambra ,Awka South,420003,Nise
-Anambra ,Orumba North,422016,Fed.Poly 
-Anambra ,Aguata,422021,Umuchu
-Anambra ,Aguata,423010,Amaokpala
-Anambra ,Orumba  South,423011,Isulo
-Anambra ,Awkw South,420001,Awka
-Anambra ,Orumba  South,423004,Ihite
-Anambra ,Orumba South,423006,Akpu
-Anambra ,Orumba South,423003,Ezira
-Anambra ,Orumba South,423005,Ogbunka
-Anambra ,Orumba South,423006,Umunze
-Anambra ,Aguata,422020,Uga
-Akwa Ibom,Uyo,520003,Uniuyo
-Akwa Ibom,Uyo,520001,GPO
-Akwa Ibom,Uyo,520003,Uniuyo
-Akwa Ibom,Urueoffong Oruko,523002,Oyubia
-Akwa Ibom,Okoboi,521003,Okobo
-Akwa Ibom,Okoboi,521003,Okobo
-Akwa Ibom,Urueoffong Oruko,523002,Oyubia
-Akwa Ibom,Uyo,520001,GPO
-Akwa Ibom,Uruan,520002,Nwaniba
-Adamawa,Yola North,640001,GPO 
-Akwa Ibom,Ibesikpo Asutan,521001,Obot Idim
-Adamawa,Song,652001,Dumne
-Akwa Ibom,Nsit Ubium,522008,Ikot Ekwere
-Akwa Ibom,Ikot Ekpene,530001,Ikot Ekpene
-Akwa Ibom,Ikot Ubo,522006,Ikot Ubo
-Akwa Ibom,Itu,520004,Itu
-Akwa Ibom,Etinan,522007,Mbioto
-Akwa Ibom,Mbo,524002,Enwang
-Akwa Ibom,Eket,524001,Eket 
-Akwa Ibom,Ikot Abasi,534001,Ikot Abasi
-Akwa Ibom,Nsit Ibom,522002,Mbiaso
-Akwa Ibom,Oron,523001,Oron
-Akwa Ibom,Onna,524002,Awa Iman
-Anambra ,Ayamelum,433013,Omor
-Anambra ,Onitsha South,430003,Ogboefere
-Akwa Ibom,Onna,524002,Awa Iman
-Akwa Ibom,Oron,523004,Maritime Academy
-Akwa Ibom,Oron,523001,Oron
-Akwa Ibom,Nsit Ibom,522003,Edeobom
-Akwa Ibom,Nsit Ibom,522004,College of Education
-Akwa Ibom,Oron,523004,Maritime Academy
-Akwa Ibom,Nsit Ibom,522002,Mbiaso
-Akwa Ibom,Nsit Ibom,522003,Edeobom
-Akwa Ibom,Nsit Ibom,522004,College of Education
-Akwa Ibom,Eket,524001,Eket 
-Akwa Ibom,Mbo,524002,Enwang
-Akwa Ibom,Ikot Abasi,534002,Ete
-Akwa Ibom,Ikot Abasi,534001,Ikot Abasi
-Akwa Ibom,Ikot Abasi,534002,Ete
-Akwa Ibom,Etinan,522001,Etinan
-Akwa Ibom,Etinan,522007,Mbioto
-Akwa Ibom,Etinan,522001,Etinan
-Akwa Ibom,Itu,520004,Itu
-Akwa Ibom,Ikot Ubo,522006,Ikot Ubo
-Akwa Ibom,Ikot Ekpene,530001,Ikot Ekpene
-Akwa Ibom,Nsit Ubium,522005,Ikot Akpan Abia
-Akwa Ibom,Nsit Ubium,522008,Ikot Ekwere
-Delta ,Isoko North,334001,Aviaara
-Delta ,Isoko North,334107,Igbide
-Delta ,Isoko North,334003,Oleh
-Delta ,Isoko North,334115,Okpe-Isoko
-Delta ,Isoko North,334112,Otar-Owhe
-Delta ,Isoko North,334002,Otibfo
-Delta ,Aniocha,320002,Akwukwu
-Delta ,Aniocha,320011,Ogwashi
-Cross River  ,Ogoja,550001,Ogoja 
-Delta ,Aniocha,320018,Ubulu-Uku
-Cross River  ,Obubra,551004,Obubra
-Cross River  ,Odukpani,541001,Creek Town
-Cross River  ,Calabar,540007,EPZ
-Delta ,Udu,330103,Ovwafri
-Delta ,Burutu,332010,Foreadoa
-Delta ,Okpe,330101,Adagbaasa
-Delta ,Warri North,331004,Koko
-Delta ,Okpe,330001,Orerokpe
-Delta ,Burutu,332009,burutu
-Delta ,Udu,330002,DSO
-Cross River  ,Calabar,540006,Poly Cal
-Cross River  ,Calabar,540004,UNICAL
-Cross River  ,Calabar,540003,Housing Estate
-Cross River  ,Calabar,540002,Edgerly Rd
-Cross River  ,Calabar,540001,Calabar 
-Cross River  ,Calabar,540005,Ambo
-Delta ,Aniocha,320015,Nsukwa
-Delta ,Aniocha,320018,Ewulu
-Delta ,Aniocha,320012,Isheagu
-Delta ,Aniocha,320014,Obior
-Delta ,Aniocha,320007,Issele-Uku
-Osun,Ila ,234001,Ila   Orangun
-Ogun ,Remo North,121005,Ode Remo
-Nasarawa,Keffi,961001,Keffi
-Kwara,Oke    Ero,252003,Ilofa
-Ogun ,Abeokuta South,110002,Ibara  
-Osun,Irepodun  ,230004,Erin   Osun
-Osun,Odo   Otin,231011,Ekosin
-Osun,Ifelodun  ,231006,Iba 
-Osun,Boluwaduro,233002,Otan   Ayegbaju
-Osun,Boripe  ,231008,Iree
-Osun,Ayedire  ,232104,Kuta 
-Osun,Ejigbo  ,232004,Olla 
-Osun,Iwo  ,232005,Iwo 
-Osun,Orolu  ,233003,Ifon   Osun
-Osun,Ejigbo  ,232003,Ejigbo 
-Osun,Ayedire  ,232002,Ile   Ogbo
-Osun,Boripe  ,231007,Ada
-Osun,Boripe  ,231007,Irabliji
-Osun,Boluwaduro,231009,Igbajo 
-Osun,Boluwaduro,231010,Iresi
-Osun,Obokun,233006,Ibokun
-Osun,Atakunmosa West,234002,Osu
-Osun,Ifelodun  ,241003,Igbaja
-Osun,Odo   Otin,231004,Igbaye
-Osun,Odo   Otin,231002,Oyan 
-Osun,Odo   Otin,231001,Okuku 
-Osun,Odo   Otin,231003,Inisa 
-Osun,Oriade,233008,Erinmo
-Osun,Ife East ,220001,Ile   Ife 
-Osun,Ife Contral ,220007,Ile   Ife
-Osun,Ife South,222007,Ife   tedo
-Osun,Ife    Central,220005,OAU
-Osun,Ife North ,220006,Moro
-Osun,Ife   East ,220003,Modakake
-Osun,Ayadaade ,221005,Orile   Owu
-Osun,Isokan  ,221004,Apomu
-Osun,Irewola   ,221003,Ikire
-Osun,Osogbo ,230001,Osogbo
-Osun,Ede North,232001,Ede
-Osun,Ede North,232001,
-Oyo,Ibadan North,200005,University of Ibadan
-Oyo,Ibadan Central,201003,Igbo Ora
-Oyo,Orelope,212003,Igboho
-Oyo,Olrunsogo,212002,Igbeti
-Oyo,Ibadan North,200009,Tapa
-Osun,Ayadaade ,221002,Ode  Omu
-Osun,Ayadaade ,221001,Gbongan
-Osun,Ife South,220004,Olode
-Osun,Oriade,233012,Iloko
-Osun,Oriade,231005,Ipetu   Jesa
-Osun,Oriade,233011,Ikeji   Iie
-Osun,Oriade,233004,Ijebu   Jesa
-Osun,Ifelodun  ,251003,Ajasse    Ipo
-Oyo,Ire,212001,Kishi
-Oyo,Orire,210005,Ikoyi
-Oyo,Ogo   Oluwa,210003,Ajaawa
-Oyo,Ogbomoso South,210002,Ijeru
-Oyo,Ogbomoso North,210001,Ogbomoso
-Oyo,Saki     East,203005,Agoamodu
-Oyo,Atisbo,203003,Ago   Aare
-Oyo,Saki West,203001,Saki
-Oyo,Kajola,202002,Okeho
-Oyo,Itesiwaju,202003,Igbojaye
-Oyo,Iseyin,202001,Isyin
-Oyo,Iddo,200006,Eleyele
-Oyo,Oyo West,211001,Oyo
-Oyo,Ire,370002,Ire
-Osun,Ifelodun  ,231005,Ikirun
-Osun,Atakunmosa West,233003,Ifewara
-Oyo,Oyo West,211003,Bacotho
-Oyo,Ibadan South West,200001,GPO
-Oyo,Saki     East,203004,Sepeteri
-Oyo,Oyo Afijio,211002,Awe
-Oyo,Ibadan South ,200002,Mapo
-Oyo,Atisbo,203002,Tede
-Ogun ,Ijebu East ,122001,Ijebu Imushin
-Kwara,Ifelodun,251004,Ilala
-Kwara,Ifelodun,241001,Ifelodun
-Ogun ,Ijebu East ,122002,Ogbere
-Ogun ,Ogun Waterside,122004,Ayila
-Kwara,Ilorin West,240008,Baboko Market
-Kwara,Moro,241002,Jebba
-Jigawa,Kiyawa,720003,Kiyawa
-Jigawa,Gagarawa,732007,Gagarawa
-Jigawa,Jahun,720004,Jahun
-Kwara,Ilorin West,240005,Ajikobi  Oloje
-Delta ,Isoko North,332001,Omore
-Delta ,Ugbelli North,332006,Obiaruku
-Delta ,Ika North,332007,Igbodo
-Delta ,Ika North,321002,Umunede
-Delta ,Ika North,321101,Ekuku-Agbor
-Delta ,Aniocha,320018,Ezi
-Delta ,Aniocha,320006,Ebu
-Delta ,Aniocha,320007,Issele-Mkpittime 
-Anambra ,Anaocha,422011,Agulu 
-Anambra ,Nnewi South,435006,Ukpor 
-Anambra ,Nnewi South,435010,Unubi
-Anambra ,Nnewi South,435007,Nkwo Ezinifite
-Anambra ,Nnewi South,435002,Amichi
-Anambra ,Nnewi South,435008,Ekwulumili
-Anambra ,Nnewi South,435004,Osumenyi
-Anambra ,Idemili South,434002,Oba 
-Anambra ,Idemili South,422001,Oraukwu 
-Anambra ,Idemili South,434013,Ojoto
-Anambra ,Idemili South,434012,Alor
-Anambra ,Idemili South,434011,Nnokwa
-Bauchi,Darazo,750003,Adj.Polic
-Anambra ,Anaocha,422004,Adazi Enu
-Anambra ,Anaocha,422015,Akwaeze
-Anambra ,Anaocha,422005,Neni
-Anambra ,Awka South,420002,Amawbia
-Akwa Ibom,Uruan,520002,Nwaniba
-Anambra ,Orumba North,422011,Awgbu 
-Anambra ,Orumba North,423009,Ufuma
-Anambra ,Orumba North,423007,nyiba
-Anambra ,Aguata,422017,Achina
-Anambra ,Aguata,422019,Isuofia
-Anambra ,Orumba North,423008,Ndiokpalaeze
-Anambra ,Aguata,422018,Igbo Ukwu
-Anambra ,Awka North,420009,Mgbakwu
-Anambra ,Onitsha North,430001,Onitsha
-Anambra ,Awka South,420006,Nibo
-Anambra ,Njikoka,421007,Ezi-Abba
-Anambra ,Njikoka,421001,Enugu  Ukwu
-Anambra ,Atani,431001,Atani
-Anambra ,Awka North,420008,Ebenebe
-Anambra ,Dunukofia,421009,Umunachi
-Anambra ,Njikoka,421011,Enugwu-Agidi
-Anambra ,Njikoka,421010,Nimo
-Anambra ,Onitsha North,430003,Fegge
-Anambra ,Ogunike,433002,Ogbunike 
-Anambra ,Dunukofia,434006,Umudioka
-Anambra ,Idemili South,434007,Nnobi
-Anambra ,Njikoka,422007,Abagana
-Anambra ,Njikoka,421004,Nawfia
-Anambra ,Awka North,420005,Achalla
-Anambra ,Dunukofia,422008,Ifite Ukpo
-Borno,Askira ,601003,Askira 
-Rivers,Degama,504002,Bokana
-Sokoto,Illela,843002,Illela    
-Borno,Jepe,600005,Gwange 
-Sokoto,Tambawal,850001,Tambawal
-Benue,Otukpo ,972001,Otukpo
-Sokoto,Bodinga,852001,Bodinga     
-Sokoto,Sokoto South,840003,Federal Secretatiat
-Taraba   ,Ibi,670002,Ibi 
-Kwara,Ilorin West,240006,Asunara
-Gombe ,Kwami,760004,Angwar Sarki
-FCT,AMAC,900001,Mogadishu Barracks
-Nasarawa,Wamba,960002,Wamba
-Kano,Kiru,711001,Kwanar Dangora
-Borno,Kaga ,601002,Binisheik
-Jigawa,Kirikasamma,731005,Kirikasamma
-Jigawa,Kafin Hausa,731002,Kafin Hausa
-Jigawa,Gwiwa,705003,Gwiwa
-Jigawa,Gwaram,721002,Gwaram
-Jigawa,Auyo,731003,Auyo
-Cross River  ,ugep,543001,Ugep
-Jigawa,Mallam Modori,730001,Mallam Madori
-Jigawa,Kaugama,730002,Kaugama
-Kwara,Oyun,250004,Ipee
-Kwara,Oyun,250003,Erin Ile
-Jigawa,Ringim,732005,Ringim
-Kwara,Ifelodun,231005,Ikirun
-Kwara,Ifelodun,251003,Ajasse    Ipo
+Kwara,Ekiti,252102,Osi
+Kwara,Ekiti,252001,Eruku
 Kwara,Ifelodun,241003,Igbaja
+Kwara,Ifelodun,241001,Ifelodun
+Kwara,Ifelodun,231006,Iba
+Kwara,Ifelodun,251003,"Ajasse    Ipo"
+Kwara,Ifelodun,251004,Ilala
+Kwara,Ifelodun,231005,Ikirun
+Kwara,"Ilorin South",240003,"University of Ilorin"
+Kwara,"Ilorin South",240001,GPO
+Kwara,"Ilorin South",240004,"Federal Secretariat"
+Kwara,"Ilorin West",240005,"Ajikobi  Oloje"
+Kwara,"Ilorin West",240008,"Baboko Market"
+Kwara,"Ilorin West",240006,Asunara
 Kwara,Irepodun,230002,Ilobu
-Jigawa,Gumel,732001,Gumel
 Kwara,Irepodun,251013,Esie
-Kano,Bebeji,710001,Bagauda
-Kano,Madobi,711003,Madobi
-Kano,Rano,710001,Rano
-Kano,Dala,700005,Fed Sect 
-Kwara,Asa,240009,Afon
-Kwara,Barten,242002,Okuta
-Kwara,Kaima,242001,Kaima
-Kwara,Ilorin South,240004,Federal Secretariat
-Kwara,Ilorin South,240003,University of Ilorin
-Nasarawa,Nasarawa Eggon,960004,Nasarawa
-Nasarawa,Akwanga,960003,Gudi
-Ogun ,Ijebu North,120005,Ijebu Igbo
-Ogun ,Ijebu North,120005,A.Iwoye
-Ogun ,Ogun Water Side ,122003,Abigi
-Ogun ,Sagamu,121001,Sagamu
-Ogun ,Ikenne ,212003,Iperu
-Nasarawa,Lafia,950001,Lafia
-Nasarawa,Lafia,950001,Assakio
-Kano,Gwarzo,710001,Gwarzo
-Ekiti,Ire,212001,Kishi
-Anambra ,Idemili South,434008,Ojoto Uno 
-Bauchi,Kwami,760004,Angwar Sarki
-Anambra ,Anaocha,422003,Adai ani 
-Anambra ,Anaocha,422002,Adazi -Nnukwu
-Anambra ,Anaocha,422010,Aguluzigbo
-Anambra ,Anaocha,422009,Enugwu-Adazi
-Anambra ,Anaocha,422012,Ichida
-Anambra ,Anaocha,422006,Nri
-Anambra ,Awka South,420014,Mbaukwu
-Anambra ,Awka South,420007,Unizik
-Akwa Ibom,Ibesikpo Asutan,521001,Obot Idim
-Adamawa,Song,652001,Song
-Bayelsa ,Ogba Egbeama Ndoni,511001,Ndoni
-Bayelsa ,Emohua,511001,Elele
-Bauchi,Bauchi,743001,Federal Poly
-Bauchi,Bauchi,743001,Army Barrack
-Bauchi,Bauchi,743001,Gombe
-Bauchi,Bauchi,742001,Ningi
-Bauchi,Bauchi,740004,Toro
-Bauchi,Bauchi,741002,Tafawa balewa
-Bauchi,Bauchi,741001,Dass
-Bauchi,Bauchi,740005,Yalwa
-Bauchi,Bauchi,740002,Gidan Mai
-Bauchi,Bauchi,740003,Federal Secretariat
-Bauchi,Bauchi,740001,Wunti 
-Bayelsa ,Ogba Egbeama Ndoni,510002,Omoku
-Anambra ,Oyi,433004,Umunya
-Anambra ,Idemili North,434001,Abatete
-Anambra ,Idemili North,434105,Eziowelle
-Anambra ,Idemili North,434005,Umuoji 
-Anambra ,Idemili North,434010,Nkpor 
-Anambra ,Idemili North,434014,Aforigwe
-Anambra ,Idemili North,434003,Obosi
-Anambra ,Idemili North,434004,Ogidi
-Anambra ,Oyi,421012,Ukwulu
-Anambra ,Oyi,433001,Nkwelle-Ezunaka
-Anambra ,Oyi,421005,Nawgu
-Sokoto,Shagari,851001,Shagari
-Sokoto,Gwadabawa,843001,Gwadabawa
-Sokoto,Wamakko,840004,Udus
-Taraba   ,Wukari,670001,Wukari 
-Taraba   ,Jalingo,660001,Jalingo 
-Taraba   ,Takum,671002,Takum 
-Anambra ,Oyi,433005,Awkuzu
-Anambra ,Oyi,433003,Nteje 
-Kebbi,Bagudo,871001,Secretarriat 
-Jigawa,Roni,705002,Roni
-Osun,Ilesa West,233001,Ilesa
-Nasarawa,Obi,950002,Agyaragu
-Nasarawa,Akwanga,960001,Akwanga
-Kwara,Ilorin South,240001,GPO
-Osun,Ifedayo  ,234004,Ora  Igbomina
-Ogun ,otta,112001,Sango Ota
-Osun,Ifedayo  ,234003,Oke   Ila
-Kwara,Isin,251005,Isanlu Isin
-Kano,Tudun Wada,710003,Tudun Wada
-Kebbi,Aliero,863003,
-Jigawa,Taura,733004,Taura
-Jigawa,Maigatari,731006,Maigatari
-Ogun ,Yewa  South,111003,Fed Poly
+Kwara,Irepodun,230004,"Erin   Osun"
+Kwara,Irepodun,251002,Arandun
+Kwara,Irepodun,251007,Agbamu
+Kwara,Irepodun,251006,Oro
+Kwara,Irepodun,251001,Omuaran
+Kwara,Isin,251010,"Owu Isin"
+Kwara,Isin,251011,"Oke Onigbin"
+Kwara,Isin,251009,"Iwo Isin"
+Kwara,Isin,251005,"Isanlu Isin"
 Kwara,Isin,251008,Ijara
-Kwara,Isin,251010,Owu Isin
-Kwara,Isin,251009,Iwo Isin 
 Kwara,Isin,251012,Edidi
-Kwara,Isin,251011,Oke Onigbin
-Kaduna,Kafanchan,801002,Kogun River
-Kaduna,Sanga,801007,Gwantu
-Kaduna,Kafanchan,601004,Godogodo
-Kaduna,Kachia,802003,Kachia
-Kaduna,Kagarko,807004,Kubachia
-Kaduna,Jaba,801003,Kwoi
-Kaduna,Madakiya,801008,Madakiya
-Kaduna,Kaura,801006,Manchok
-Kaduna,Zongon Kataf,802001,Zongon Kataf
-Kaduna,Zonkwa,802002,Zonkwa
-Kaduna,Kagoro,801005,Kagoro 
-Kaduna,Soba,810005,Soba
-Kaduna,Jema'a,801001,Kafanchan
-Kaduna,Dutsen Wai ,812003,Dutsen Wai
-Kaduna,Ikare,342001,Ikare
-Kaduna,Makarfi,812002,Makarfi
-Kaduna,Giwa,810008,Giwa
-Kaduna,Giwa,810007,Mile 10 A.B.U
-Kaduna,Zaria,810003,Wusasa
-Kaduna,Sabon Gari,810006,Samaru
-Kaduna,Kajuru,800009,Kasuwan Magani
-Kaduna,Sabon Gari,810002,Sabon Gari
-Kaduna,Sabon Gari,810001,Zaria
-Kaduna,Zaria,810004,Zaria City
-Kaduna,Ikare,812001,Ikara
-Osun,Ifelodun  ,251004,Ilala
-Osun,Esa   Oke,233010,Esa   Oke
-Osun,Ifelodun  ,241001,Ifelodun
-Osun,Obokun,233007,Imest   Ile
-Osun,Ilesa West,233009,Temidire Imadin
-Ogun ,Odogbolu,120003,TASUED
-Ogun ,Odogbolu,121001,Aiyepe
-Ogun ,Ijebu Ode,120001,Ijebu Ode
-Ogun ,Odogbolu,120003,Odogbolu
-Ogun ,Ikenne ,212002,Ikenne
-Ogun ,Ijebu North East ,120002,Isonyin
-Kaduna,BirninGwari,800008,BirninGwari
-Kaduna,Kaduna North,800004,Kawo
-Kaduna,Kaduna South,800006,Kakuri
-Ogun ,Ikenne ,121003,Babcock University
-Kaduna,Kaduna South,800002,Kaduna Junetion 
-Nasarawa,New Karu,961002,New Karu
-Nasarawa,New Karu,961003,Mararaba
-Nasarawa,New Karu,962001,Nasarawa
-Kaduna,Jaji,810009,Jaji
-Kaduna,Kaduna South,800005,Barnawa 
-Kaduna,Kaduna North,800007,New Town
-Kaduna,Kaduna North,800001,GPO
-Anambra ,Orumba North,423002,Enugwu - Abor
-Anambra ,Orumba North,423001,Ajalli
-Anambra ,Aguata,422016,Aguata
-Anambra ,Orumba North,422022,Nanka
-Bauchi,Kwami,760003,Bojude
-Akwa Ibom,Nsit Ubium,522005,Ikot Akpan Abia
-Benue,Gwer,971001,Aliade
-Bayelsa ,Nembe,561002,Nembe
-Bayelsa ,Sagbama,561004,Sagbama
-Bayelsa ,Ahoada,510001,Ahoada
-Anambra ,Idemili  North,434015,Nkpor 
-Borno,Bama ,610001,Bama 
-Borno,Gwoza ,610003,Gwoza
-Borno,Dikwa  ,611001,Dikwa
-Borno,Marte ,611003,Marte
-Borno,Ngala ,611002,Ngala 
-Borno,Jerre,600004,University of maiduguri
-Borno,MMC,600003,Fed.Sec
-Delta ,Ethiope East,331002,Eku
-Borno,Akkira Uba,601004,Lassa  
-Delta ,Ukwani,322133,Ossissa
-Delta ,Ethiope East,331003,Kokori
-Benue,Guma,970004,Daudu
-Delta ,Ndokwa West,332003,Ashaka
-Delta ,Ndokwa West,332005,Umutu
-Delta ,Ndokwa West,332004,Ndemili
-Delta ,Ndokwa West,332001,Kwale
-Delta ,Ethiope East,333003,Ewo-Urhobe
-Borno,MMC,600001,GPO
-Bayelsa ,Ahoada,510001,Ahoada
-Bayelsa ,Ogbia,561003,Ogbia
-Rivers,Obio  Akpor,500007,Woji
-Delta ,Ika South,321101,Owanta
-Delta ,Oshimili,320005,Okaman
-Edo,Igueben ,310002,Ebelle
-Edo,Ikpoba,300003,Ologbo
-Edo,Egor,302001,Ugbowo
-Rivers,Gokana,501002,Bodo
-Rivers,Khana,520001,Bori Ogoni
-Rivers,Etche,512001,Okehi
-Rivers,Ikwerre,511002,Airport
-Rivers,Asari-Toru,504003,Buguma
-Rivers,Port Harcout ,500003,Trans Amadi
-Sokoto,Yabo,851001,Yabo    
-Sokoto,Wurno,842001,Wurno    
-Taraba   ,Bali,672001,Bali 
-Rivers,Port Harcout ,500002,Diobu
-Delta ,Oshimili,320004,Ibusa
-Nasarawa,Obi,951001,Obi
-Nasarawa,Keana,951001,Keana
-Rivers,Port Harcout ,500005,Aggrey Roa
-Taraba   ,Sarduna,663002,Gembu 
-Rivers,Port Harcout ,500008,Unitech
-Taraba   ,Karim Lamido,662002,Karim Lamido 
-Rivers,Port Harcout ,500001,GPO
-Edo,Igueben ,310004,Igueben
-Delta ,Oshimili,310004,Illah
-Delta ,Oshimili,520001,Asaba
-Delta ,Ika South,321001,Agbor
-Delta ,Ika South,320013,Idumuje-Ugboko
-Nasarawa,Lafia,950001,Barikin Abdullahi
-Ogun ,Ijebu North,120004,Oru
-katsina,Bakori,832002,Bakori 
-katsina,Funtua,830001,Funtua
-katsina,Dutsinma,821001,Dutsinma
-katsina,Katsina,820001,GP.O
-katsina,Katsina,980001,Katsina Ala 
-Abia,Isuikwuato,443005,Eluama
-Abia,Ohafia,443004,Ania
-Abia,Ohafia,443005,Ohafia 
-Abia,Umuahia North,440003,Umuahia 
-Abia,Umuahia North,440112,Afugiri
-Kogi,Bassa LGA,273004,Oguma
-Ondo,Ipe,342011,Ipe
-Abia,Ohafia,443001,Abiriba
-Ondo,Ijebu Owo,341001,Ijebu Owo
-Abia,Ohafia,443003,Ohafia
-Ondo,Imeri,341005,Imeri
-Ondo,Idonani,341004,Idoani
-Ondo,Ifon,341002,Ifon
-Ondo,Oba,342008,Oba
-Ondo,Akungba,342007,Akungba
-Ondo,Epinmi,352006,Epinmi
-Ondo,Iwaro,342010,Iwaro
-Ondo,Oka,342006,Oka
-Ondo,Ogbagi,342001,Ogbagi
-Ondo,Ajowa,342002,Ajowa
-Ondo,Oke Agbe,342005,Oke Agbe
-Ondo,Irun,342003,Irun
-Ondo,Arigidi,342004,Arigidi
-Ondo,Ikare ,342001,Ikare
-Ondo,Owo,341001,Owo
-Ondo,Igbokoda,352003,Igbokoda
-Ondo,Odotu,351002,Odotu
-Ondo,Bamikemon,351003,Bamikemon
-Ondo,Ikare ,812001,Ikara
-Ondo,Okeigbo,351003,Okeigbo
-Ondo,Araromi Obu,350002,Araromi Obu
-Ondo,Ilutitun,350005,Ilutitun
-Kogi,Olamaboro   Okpo,270003,Okpo
-Kogi,Omala Abejukulo,270002,Abeojukulo
-Kogi,Idah,271001,Idah
-Kogi,IJumu,262002,Amuro
-Kogi,IJumu,260006,Odo   Ere
-Kogi,Okehi,264001,Ihima
-Kogi,IJumu,262004,Ejuku
-Kogi,Ajaokuta,263003, Ajaokuta
-Kogi,IJumu,262005,Egbe 
-Kogi,Lokoja,260001,GPO
-Kogi,IJumu,262007,Ejiba
-Abia,Unuahia North,440015,N  Okaniuga
-Abia,Bende,441013,Ozuitem
-Kogi,IJumu,262003,Mopa
-Abia,Bende,440021,Item
-Abia,Ikwuana,440006,Ariam
-Abia,Ikwuana,440014,Oloko
-Abia,Umuahia South,440010,Olokoro
-Abia,Umuahia South,440005,Ekenobizi
-Abia,Ukwa West,452001,Imo River
-Abia,Umuahia South,440009,Ubakala
-Abia,Umuahia South,440002,Old Umuahia
-Abia,Ikwuana,440007,Oboro
-Abia,Bende,410010,Alayi
-Abia,Bende,441012,Igbere
-Abia,Bende,441011,Bende
-Kogi,IJumu,262001,Isanlu
-Kogi,IJumu,261008,Aiyetoro Gbede
-Abia,Bende,441008,Uzuakoli
-Kogi,IJumu,262006,Egbeda 
-Kogi,IJumu,261007,Iyamoye
-Kogi,IJumu,261003,Ekirw   Adde
-Kogi,IJumu,261002,Iffe Ijumu
-Kogi,IJumu,261005, Iyara
-Abia,Isiala Ngwa South,440001,GPO
-Abia,Aba South,450002,Ngwa Rd
-Abia,Isukwuato,441002,Ovim
-Abia,Arochkwuu,442002,Ozuabam
-Kogi,Okene,264002, Itakpe
-Kogi,Ogori,263002,ogori
-Kogi,kabba Bunu,261001, Kabba
-Kogi,Dekina,272003,Egume
-Kogi,Ankpa,270001,Ankpa
-Kogi,Ofu  LGA,271003,Ejule
-Ondo,Akure,340002,Oyemekun
-Ondo,Ijare,340010,Ijare
-Abia,Isiala Ngwa South,451003,Owerrinta
-Abia,Isiala Ngwa South,440008,Okpuala Ngwa 
-Abia,Isiala Ngwa South,451001,Nbawsi
-Abia,Isiala Ngwa South,452001,Amapu Ntigha
-Abia,Isiala Ngwa South,451001,Umunkpeyi
-Abia,Umuahia North,440004,Ameke Ibeku
-Ondo,Ugbonla,352001,Ugbonla
-Kogi,Ibaji,271002,Onyedega
-Abia,Arochukwu,442003,Ihechiowa
-Abia,Arochukwu,442001,Arochukwu
-katsina,Mani,825002,Mani
-katsina,Faskari,832001,Faskari
-Ondo,Itaogbolu,340005,Itaogbolu
-Ondo,Iju,340015,Iju
-Ondo,Ilaramakin,340007,Ilara
-Ondo,Idanre,340008,Idanre
-Ondo,Igbara Oke,340006,Igbara Oke
-Ondo,Akure,340003,Federal Secretariat
-Ondo,Akure,340004,Akure Branch Office
-Kogi,Dekina,272001,Dekina
-Ondo,Akure,340001,GPO
-Kogi,Dekina,272002,Anyangba
-Kogi,Okene,263001,Okene
-Abia,Aba South,450001,Aba
-Abia,Isiala Ngwa South,451002,Omoba
-Abia,Isiala Ngwa South,451004,Umuosu
-Abia,Osisioma,450003,umungasi
-katsina,Daura,820001,Daura
-Ondo,Ile Oluji,351003,Ile Oluji
-Ondo,Ondo,351001,Ondo
-Ondo,Okitipupa,350002,Okitipupa
-Ondo,Ode Aye,350005,Ode Aye
-Ondo,Igbotako,350004,Igbotako
-Ondo,Oniparaga ,350003,Oniparaga
-Ondo,Ikaramu,342009,Ikaramu
-Ondo,Ore,350001,Ore
-katsina,Malumfashi,833001,Malumfashi
-Taraba   ,Yorro,661002,Pantisawa 
-Niger,Suleja,910001,Suleja
-Niger,New Bussa,913003,New Bussa
-Niger,Mokwa,913001,Mokwa
-Niger,Kagara,922001,Kagara
-Lagos,lagosMainland ,101017,University Of Lagos
-Lagos,Badagry,102001,Agbara   
-Lagos,Badagby,103001,Badagry
-Lagos,Eti-Osa,101003,New Secretariat   
-Lagos,Lagos,110102,Idumagbo
-Lagos,Lagos Island,101001,GPO 
-Lagos,Amuwo Odofin,101010,Navy Town
-Lagos,Ajeromi,101015,Amukoko
-Lagos,Apapa ,101010,Apapa
-Lagos,Igbogbo,104002,Igbogbo   
-Lagos,Owutu  ,100002,Owutu   
-Lagos,Imota  ,104004,Imota    
+Kwara,Kaiama,242001,Kaima
+Kwara,Moro,241002,Jebba
+Kwara,Moro,241001,"Bode Saadu"
+Kwara,Offa,250001,Offa
+Kwara,Oke-Ero,252003,Ilofa
+Kwara,Oyun,240010,Ojoku
+Kwara,Oyun,250005,Irra
+Kwara,Oyun,250004,Ipee
+Kwara,Oyun,250002,Ikotun
+Kwara,Oyun,250006,Ijagbo
+Kwara,Oyun,250001,Igosun
+Kwara,Oyun,250003,"Erin Ile"
+Kwara,Pategi,243103,Pategi
 Lagos,Agege,100005,Agege
-Niger,Rijau,923002,Rijau
-Niger,Kontagora,923003,Kontagora
-Niger,Baro,912003,Baro
-Niger,Katcha,912004,Katch
-Niger,Badeggi,912002,Badeggi
-Niger,Kataregi,913003,Kataregi
-Niger,Kutigi,913002,Kutigi
-Niger,Lapai,911001,Lapai
+Lagos,"Ajeromi Ifelodun",101015,Amukoko
+Lagos,Alimosho,100006,Oke-Odo
+Lagos,Alimosho,100006,Ipaja
+Lagos,"Amuwo Odofin",101010,"Navy Town"
+Lagos,"Amuwo Odofin",100001,Festac
+Lagos,Apapa,101010,Apapa
+Lagos,Badagry,102004,Ijanikin
+Lagos,Badagry,102001,Agbara
+Lagos,Badagry,103001,Badagry
+Lagos,"Eti Osa",101003,"New Secretariat"
+Lagos,Ifako-Ijaye,112005,Ajuwon
+Lagos,Ifako-Ijaye,100005,Ojokoro
+Lagos,Ikeja,100001,GPO
+Lagos,Ikeja,100011,Oshopey
+Lagos,Ikeja,100015,"Juli House"
+Lagos,Ikorodu,104001,Ikorodu
+Lagos,Ikorodu,104002,Igbogbo
+Lagos,Ikorodu,100002,Owutu
+Lagos,Ikorodu,104004,Imota
+Lagos,Kosofe,100014,Magodo
+Lagos,Kosofe,100013,"Ketu  Kosofe"
+Lagos,"Lagos Island",101005,Moloney
+Lagos,"Lagos Island",101006,Lafiaji
+Lagos,"Lagos Island",101001,GPO
+Lagos,"Lagos Island",101004,"City Hall"
+Lagos,"Lagos Island",101018,"Adeniji Adele"
+Lagos,"Lagos Island",110102,Idumagbo
+Lagos,"Lagos Mainland",101012,"Ebute -Metter"
+Lagos,"Lagos Mainland",101017,"University Of Lagos"
+Lagos,"Lagos Mainland",101013,"National Arts Theatre"
+Lagos,"Lagos Mainland",101016,"Iddo Terminus"
+Lagos,Mushin,100009,Mushin
+Lagos,Ojo,102003,Aspanda
+Lagos,Oshodi-Isolo,100003,MMAP
+Lagos,Shomolu,100007,Skomolu
+Lagos,Surulere,101015,Ijeshatedo
+Nasarawa,Akwanga,960003,Gudi
+Nasarawa,Akwanga,960001,Akwanga
+Nasarawa,Karu,961003,Mararaba
+Nasarawa,Karu,961002,"New Karu"
+Nasarawa,Keana,951001,Keana
+Nasarawa,Keffi,961001,Keffi
+Nasarawa,Lafia,950001,Lafia
+Nasarawa,Lafia,950001,"Barikin Abdullahi"
+Nasarawa,Lafia,950001,Assakio
+Nasarawa,Nasarawa,962001,Nasarawa
+Nasarawa,"Nasarawa Egon",960004,Nasarawa
+Nasarawa,Obi,951001,Obi
+Nasarawa,Obi,950002,Agyaragu
+Nasarawa,Wamba,960002,Wamba
+Niger,Agaie,912003,Baro
 Niger,Bida,912001,Bida
-Niger,Bosso,920003,Federal University
-Niger,Zungeru,922003,Zungeru
-Niger,Wushish,922107,Wushishi
-Niger,Shiroro,921101,Kuta
-Niger,Minna,920002,F.G.C
-Lagos,Ifako - Ijaye,100005,Ojokoro
-Lagos,Ogun,112005,Ajuwon
-Niger,Minna,921102,Sarkin Pawa
-Niger,Minna,920004,Station Rd.
-Niger,Minna,920001,GPO
+Niger,Borgu,913003,"New Bussa"
+Niger,Bosso,920004,"Station Rd."
+Niger,Bosso,920001,GPO
+Niger,Bosso,920002,F.G.C
+Niger,Bosso,920003,"Federal University"
+Niger,Katcha,912004,Katcha
+Niger,Katcha,912002,Badeggi
 Niger,Kontagora,923001,Kontagora
-Lagos,Lagos Island,101005,Moloney
-Lagos,Lagos Island,101006,Lafiaji
-Lagos,Lagos Island,101018,Adeniji Adele
-Lagos,Lagos Island,101004,City Hall
-Lagos,Ikorodu  ,104001,Ikorodu   
-Lagos,Ojo,102003,Aspanda  
-Lagos,Surulere,101014,Surulere  
-Lagos,Oshodi  Isolo,100003,MMAP
-Lagos,Mushin,100009,Mushin  
-Lagos,Lagos Main Land ,101012,Ebute -Metter 
-Lagos,Lagos Mainland ,101016,Iddo Terminus  
-Lagos,Lagos Mainland ,101013,National Arts Theatre  
-Lagos,Ikosi Iseri ,100013,Ketu  Kosofe
-Lagos,Skomolu,100007,Skomolu
-Lagos,Alimosho,100006,Oke-Odo  
-Lagos,Alimosho,100006,Ipaja  
-Lagos,Ikeja,100015,Juli House  
-Lagos,Ikeja,100011,Oshopey  
-Lagos,Ikosi Isheri,100014,Magodo
-Lagos,Itire  Ikate &Aguda,101015,Ijeshatedo
-Lagos,Amuwo,100001,Festac 
-Lagos,Ikeja,100001,GPO 
-Lagos,Otto - Ijanikin,102004,Ijanikin  
+Niger,Kontagora,923003,Kontagora
+Niger,Lapai,911001,Lapai
+Niger,Lavun,913002,Kutigi
+Niger,Mokwa,913001,Mokwa
+Niger,Munya,921102,"Sarkin Pawa"
+Niger,Rafi,922001,Kagara
+Niger,Rijau,923002,Rijau
+Niger,Shiroro,921101,Kuta
+Niger,Suleja,910001,Suleja
+Niger,Wushishi,922003,Zungeru
+Niger,Wushishi,922107,Wushishi
+Ogun,"Abeokuta North",110002,Ibara
+Ogun,"Abeokuta South",110003,Totoro
+Ogun,"Abeokuta South",110001,GPO
+Ogun,Ado-Odo/Otta,112001,"Sango Ota"
+Ogun,"Ijebu East",122002,Ogbere
+Ogun,"Ijebu East",122001,"Ijebu Imushin"
+Ogun,"Ijebu North",120004,Oru
+Ogun,"Ijebu North",120005,A.Iwoye
+Ogun,"Ijebu North East",120002,Isonyin
+Ogun,"Ijebu Ode",120001,"Ijebu Ode"
+Ogun,Ikenne,212003,Iperu
+Ogun,Ikenne,212002,Ikenne
+Ogun,Ikenne,121003,"Babcock University"
+Ogun,"Imeko Afon",111005,"Owode Yewa"
+Ogun,"Obafemi Owode",110006,FCE
+Ogun,"Obafemi Owode",110004,"Federal Sec.Complex"
+Ogun,"Obafemi Owode",110005,Owode
+Ogun,Odeda,110008,UNAAB
+Ogun,Odeda,110007,Odeda
+Ogun,Odogbolu,120003,Odogbolu
+Ogun,Odogbolu,121001,Aiyepe
+Ogun,"Ogun Waterside",122004,Ayila
+Ogun,"Ogun Waterside",122003,Abigi
+Ogun,"Remo North",121004,Isara
+Ogun,"Remo North",121005,"Ode Remo"
+Ogun,Sagamu,121001,Sagamu
+Ogun,"Yewa North",111001,Ayetoro
+Ogun,"Yewa South",111004,Oke-Odan
+Ogun,"Yewa South",111002,Liaro
+Ogun,"Yewa South",111003,"Fed Poly"
+Ondo,"Akoko North East",342001,Ikare
+Ondo,"Akoko North West",342004,Arigidi
+Ondo,"Akoko North West",342002,Ajowa
+Ondo,"Akoko North West",342005,"Oke Agbe"
+Ondo,"Akoko North West",342001,Ogbagi
+Ondo,"Akoko North West",342003,Irun
+Ondo,"Akoko North West",342009,Ikaramu
+Ondo,"Akoko South East",342011,Ipe
+Ondo,"Akoko South West",342006,Oka
+Ondo,"Akoko South West",342008,Oba
+Ondo,"Akoko South West",342010,Iwaro
+Ondo,"Akoko South West",342007,Akungba
+Ondo,"Akure North",340001,GPO
+Ondo,"Akure North",340005,Itaogbolu
+Ondo,"Akure North",340015,Iju
+Ondo,"Akure South",340003,"Federal Secretariat"
+Ondo,"Akure South",340004,"Akure Branch Office"
+Ondo,"Akure South",340002,Oyemekun
+Ondo,"Ese Odo",352001,Ugbonla
+Ondo,Idanre,340008,Idanre
+Ondo,Ifedore,340007,Ilara
+Ondo,Ifedore,340010,Ijare
+Ondo,Ifedore,340006,"Igbara Oke"
+Ondo,Ilaje,352003,Igbokoda
+Ondo,"Ile-Oluji/ Okeigbo",351003,Okeigbo
+Ondo,"Ile-Oluji/ Okeigbo",351002,Odotu
+Ondo,"Ile-Oluji/ Okeigbo",351003,"Ile Oluji"
+Ondo,"Ile-Oluji/ Okeigbo",351003,Bamikemon
+Ondo,Odigbo,350001,Ore
+Ondo,Odigbo,350003,Oniparaga
+Ondo,Odigbo,350005,Ilutitun
+Ondo,Odigbo,350002,"Araromi Obu"
+Ondo,Okitipupa,350002,Okitipupa
+Ondo,Okitipupa,350005,"Ode Aye"
+Ondo,Okitipupa,350004,Igbotako
+Ondo,"Ondo West",351001,Ondo
+Ondo,Ose,341005,Imeri
+Ondo,Ose,341002,Ifon
+Ondo,Ose,341004,Idoani
+Ondo,Owo,341001,"Ijebu Owo"
+Osun,Aiyedade,221005,"Orile   Owu"
+Osun,Aiyedade,221002,"Ode  Omu"
+Osun,Aiyedade,221001,Gbongan
+Osun,Aiyedire,232104,Kuta
+Osun,Aiyedire,232002,"Ile   Ogbo"
+Osun,"Atakunmosa West",233002,Osu
+Osun,Boluwaduro,233002,"Otan   Ayegbaju"
+Osun,Boluwaduro,231010,Iresi
+Osun,Boluwaduro,231009,Igbajo
+Osun,Boripe,231008,Iree
+Osun,Boripe,231007,Irabliji
+Osun,Boripe,231007,Ada
+Osun,"Ede North",232001,Ede
+Osun,Ejigbo,232004,Olla
+Osun,Ejigbo,232003,Ejigbo
+Osun,"Ife Central",220007,"Ile   Ife"
+Osun,"Ife Central",220005,OAU
+Osun,"Ife East",220003,Modakake
+Osun,"Ife East",220001,"Ile   Ife"
+Osun,"Ife North",220006,Moro
+Osun,"Ife South",220004,Olode
+Osun,"Ife South",222007,"Ife   tedo"
+Osun,Ifedayo,234004,"Ora  Igbomina"
+Osun,Ifedayo,234003,"Oke   Ila"
+Osun,Ila,234001,"Ila   Orangun"
+Osun,"Ilesa West",233009,"Temidire Imadin"
+Osun,"Ilesa West",233001,Ilesa
+Osun,Irewole,221003,Ikire
+Osun,Isokan,221004,Apomu
+Osun,Iwo,232005,Iwo
+Osun,Obokun,233010,"Esa   Oke"
+Osun,Obokun,233007,"Imest   Ile"
+Osun,Obokun,233006,Ibokun
+Osun,Odo-Otin,231002,Oyan
+Osun,Odo-Otin,231001,Okuku
+Osun,Odo-Otin,231003,Inisa
+Osun,Odo-Otin,231004,Igbaye
+Osun,Odo-Otin,231011,Ekosin
+Osun,Oriade,233012,Iloko
+Osun,Oriade,233011,"Ikeji   Iie"
+Osun,Oriade,233004,"Ijebu   Jesa"
+Osun,Oriade,233008,Erinmo
+Osun,Oriade,233003,Ifewara
+Osun,Oriade,231005,"Ipetu   Jesa"
+Osun,Orolu,233003,"Ifon   Osun"
+Osun,Osogbo,230001,Osogbo
+Oyo,Afijio,211002,Awe
+Oyo,Atisbo,203002,Tede
+Oyo,Atisbo,203003,"Ago   Aare"
+Oyo,"Ibadan North",200005,"University of Ibadan"
+Oyo,"Ibadan North",200009,Tapa
+Oyo,"Ibadan South East",200002,Mapo
+Oyo,"Ibadan South West",200001,GPO
+Oyo,"Ibarapa central",201003,"Igbo Ora"
+Oyo,Ido,200006,Eleyele
+Oyo,Irepo,212001,Kishi
+Oyo,Iseyin,202001,Isyin
+Oyo,Itesiwaju,202003,Igbojaye
+Oyo,Kajola,202002,Okeho
+Oyo,"Ogbomoso North",210001,Ogbomoso
+Oyo,"Ogbomoso South",210002,Ijeru
+Oyo,"Ogo Oluwa",210003,Ajaawa
+Oyo,Olorunsogo,212002,Igbeti
+Oyo,Orelope,212003,Igboho
+Oyo,"Ori Ire",210005,Ikoyi
+Oyo,"Oyo West",211001,Oyo
+Oyo,"Oyo West",211003,Bacotho
+Oyo,"Saki East",203005,Agoamodu
+Oyo,"Saki East",203004,Sepeteri
+Oyo,"Saki West",203001,Saki
+Oyo,Surulere,101014,Surulere
+Plateau,"Barkin Ladi",931002,"Kurra Falls"
+Plateau,"Barkin Ladi",931001,"Barkin Ladi"
+Plateau,Bokkos,932004,Daffo
+Plateau,"Jos North",940006,"Zaria Rd."
+Plateau,"Jos North",930003,"University of Jos"
+Plateau,"Jos North",930002,"Jos Town"
+Plateau,"Jos North",930004,"Jos North"
+Plateau,"Jos North",900001,GPO
+Plateau,"Jos South",930010,Vom
+Plateau,"Jos South",933009,NIPSS
+Plateau,"Jos South",930011,"Federal Secretariat"
+Plateau,"Jos South",930008,Bukuru
+Plateau,"Jos South",930007,"Anglo Jos"
+Plateau,Kanam,942003,Dengi
+Plateau,Kanke,933002,Kabwir
+Plateau,Kanke,933003,Amper
+Plateau,"Langtang North",941001,Langtang
+Plateau,"Langtang South",941002,Mabudi
+Plateau,Mangu,932001,Mangu
+Plateau,Mangu,933001,Gindiri
+Plateau,Mikang,942002,Garkawa
+Plateau,Pankshin,933001,Pankshin
+Plateau,"Qua'an Pan",940003,Ba'ap
+Plateau,Shendam,940004,Demshin
+Plateau,Shendam,942002,"Yelwa Ishar"
+Plateau,Shendam,940001,Shendam
+Plateau,Wase,942001,Wase
+Rivers,Abua/Odual,510003,Abua
+Rivers,"Ahoada East",510001,Ahoada
+Rivers,"Akuku Toru",504004,Abonnema
+Rivers,"Asari Toru",504003,Buguma
+Rivers,Degema,504002,Bokana
+Rivers,Eleme,501001,Eleme
+Rivers,Emohua,511001,Elele
+Rivers,Etche,512001,Okehi
+Rivers,Gokana,501002,Bodo
+Rivers,Ikwerre,511002,Airport
+Rivers,Khana,520001,"Bori Ogoni"
+Rivers,Obio/Akpor,500007,Woji
+Rivers,Obio/Akpor,500004,Uniport
+Rivers,Obio/Akpor,500006,"Federal Secretariat"
+Rivers,Obio/Akpor,500011,"College Of Arts & Science"
+Rivers,Obio/Akpor,500010,COE
+Rivers,Ogba/Egbema/Ndoni,510002,Omoku
+Rivers,Ogba/Egbema/Ndoni,511001,Ndoni
+Rivers,Okrika,500009,Okirika
+Rivers,Opobo/Nkoro,503002,Opobo
+Rivers,Port-Harcourt,500008,Unitech
+Rivers,Port-Harcourt,500003,"Trans Amadi"
+Rivers,Port-Harcourt,500001,GPO
+Rivers,Port-Harcourt,500002,Diobu
+Rivers,Port-Harcourt,500005,"Aggrey Roa"
+Sokoto,Bodinga,852001,Bodinga
+Sokoto,Gwadabawa,843001,Gwadabawa
+Sokoto,Illela,843002,Illela
+Sokoto,Isa,883001,Isa
+Sokoto,Shagari,851001,Shagari
+Sokoto,"Sokoto South",840002,Marina
+Sokoto,"Sokoto South",840001,GPO
+Sokoto,"Sokoto South",840003,"Federal Secretariat"
+Sokoto,Tambuwal,850001,Tambawal
+Sokoto,Tangaza,841001,"Gidan Madi    ."
+Sokoto,Wamako,840004,Udus
+Sokoto,Wurno,842001,Wurno
+Sokoto,Yabo,851001,Yabo
+Taraba,Bali,672001,Bali
+Taraba,Donga,671001,Donga
+Taraba,Gashaka,663001,Serti
+Taraba,Gassol,672002,"Mutum Biyu"
+Taraba,Ibi,670002,Ibi
+Taraba,Jalingo,660001,Jalingo
+Taraba,Karim-Lamido,662002,"Karim Lamido"
+Taraba,Kurmi,671004,Baissa
+Taraba,Lau,662001,Lau
+Taraba,Sardauna,663002,Gembu
+Taraba,Takum,671002,Takum
+Taraba,Wukari,670001,Wukari
+Taraba,Yorro,661002,Pantisawa
+Taraba,Zing,661003,Zing
+Yobe,Bade,631001,Gashua
+Yobe,Damaturu,620001,GPO
+Yobe,Fune,622003,Damagum
+Yobe,Geidam,632001,Geidam
+Yobe,Gujba,621002,"Buni Yadi"
+Yobe,Nguru,630001,Nguru
+Yobe,Potiskum,622002,Potiskum
+Zamfara,Anka,890001,Anka
+Zamfara,Bungudu,881001,Bungudu
+Zamfara,Chafe,880003,Kucheri
+Zamfara,Chafe,880002,Chafe
+Zamfara,Gummi,891001,Gummi
+Zamfara,Gusau,880001,Gusau
+Zamfara,"Kaura Namoda",882001,"Kauran Namoda"
+Zamfara,Maru,890002,Maru
+Zamfara,Shinkafi,883002,Shinkafi
+Zamfara,"Talata Mafara",892001,"Talatan Mafara"
